@@ -1,0 +1,821 @@
+Year,Month,Carrier_Code,Carrier,AirportCode,Airport,TotalOperations,ArrivalsDelayed,CarrierDelays,WeatherDelays,NAS Delays,SecurityDelays,LateAircraftDelays,ArrivalCancelled,ArrivalDiverted
+2008,1,9E,Pinnacle Airlines Inc.,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",85,29,11.67,0,9.26,0,8.08,5,0
+2008,1,9E,Pinnacle Airlines Inc.,ALB,"Albany, NY: Albany County",51,15,5.34,0,6.79,0,2.87,6,0
+2008,1,9E,Pinnacle Airlines Inc.,ALO,"Waterloo, IA: Waterloo Municipal",27,4,1,0,2,0,1,7,0
+2008,1,9E,Pinnacle Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",157,36,4.71,0,9.85,0,21.43,7,0
+2008,1,9E,Pinnacle Airlines Inc.,ATW,"Appleton, WI: Outagamie County",65,8,4.08,0,2.92,0,1,5,0
+2008,1,9E,Pinnacle Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",88,30,16.08,1.13,8.34,0,4.45,0,1
+2008,1,9E,Pinnacle Airlines Inc.,AVL,"Asheville, NC: Asheville Regional",90,21,5.83,0,8.27,0,6.9,3,1
+2008,1,9E,Pinnacle Airlines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton",58,20,5.5,0,5.43,0,9.07,4,1
+2008,1,9E,Pinnacle Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo Municipal",91,24,9.91,0.87,5.3,0,7.92,11,2
+2008,1,9E,Pinnacle Airlines Inc.,BDL,"Hartford, CT: Bradley International",74,20,7.39,0,5.9,0,6.7,4,1
+2008,1,9E,Pinnacle Airlines Inc.,BGM,"Binghamton/Endct/Jhnsn Cty, NY: Broome County",62,21,9.51,0.91,5.13,0,5.45,2,1
+2008,1,9E,Pinnacle Airlines Inc.,BGR,"Bangor, ME: Bangor International",62,18,8.66,0,5.09,0,4.25,4,0
+2008,1,9E,Pinnacle Airlines Inc.,BHM,"Birmingham, AL: Birmingham Municipal",149,39,14.42,1.15,13.98,0,9.46,6,0
+2008,1,9E,Pinnacle Airlines Inc.,BIL,"Billings, MT: Logan International",6,4,2.69,0,1.31,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,BIS,"Bismarck/Mandan, ND: Bismarck Municipal",67,12,9.04,0,1.96,0,1,10,0
+2008,1,9E,Pinnacle Airlines Inc.,BNA,"Nashville, TN: Nashville Metropolitan",141,50,20.82,1.73,12.27,0,15.17,3,0
+2008,1,9E,Pinnacle Airlines Inc.,BOS,"Boston, MA: Logan International",91,19,7.93,0,5.99,0,5.08,6,0
+2008,1,9E,Pinnacle Airlines Inc.,BTR,"Baton Rouge, LA: Ryan",37,9,2.39,1.23,3.38,0,2,1,0
+2008,1,9E,Pinnacle Airlines Inc.,BTV,"Burlington, VT: Burlington International",68,21,7.22,0,7.79,0,5.99,2,1
+2008,1,9E,Pinnacle Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",28,8,3.77,0,2.41,0,1.83,3,1
+2008,1,9E,Pinnacle Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",59,17,6.89,4.13,0.97,0,5,0,0
+2008,1,9E,Pinnacle Airlines Inc.,BZN,"Bozeman, MT: Gallatin Field",6,3,1.32,0,0.68,0,1,1,0
+2008,1,9E,Pinnacle Airlines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",120,36,15.99,2.8,10.98,0,6.23,7,0
+2008,1,9E,Pinnacle Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",84,17,6.02,0,5.95,0,5.03,6,0
+2008,1,9E,Pinnacle Airlines Inc.,CHA,"Chattanooga, TN: Lovell Field",31,12,5.51,1,1.51,0,3.98,3,0
+2008,1,9E,Pinnacle Airlines Inc.,CHS,"Charleston, SC: Charleston International",120,28,7.2,2.67,8.38,0,9.76,1,0
+2008,1,9E,Pinnacle Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: Cedar Rapids Municipal",174,39,21.6,0,9.73,0,7.68,15,3
+2008,1,9E,Pinnacle Airlines Inc.,CLE,"Cleveland, OH: Hopkins International",242,67,34.04,0,17.19,0,15.77,3,0
+2008,1,9E,Pinnacle Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",98,35,13.58,1.47,11.66,0,8.28,4,0
+2008,1,9E,Pinnacle Airlines Inc.,CMH,"Columbus, OH: Columbus International",218,59,29.09,2.33,12.59,0,14.99,7,0
+2008,1,9E,Pinnacle Airlines Inc.,CMX,"Hancock/Houghton, MI: Houghton County Memorial",31,8,1.63,2.54,3.83,0,0,8,0
+2008,1,9E,Pinnacle Airlines Inc.,CPR,"Casper, WY: Natrona County International",31,6,1.77,0,3.99,0,0.24,0,0
+2008,1,9E,Pinnacle Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/ Northern Kentucky International",207,48,28.2,0.37,10.36,0,9.07,7,0
+2008,1,9E,Pinnacle Airlines Inc.,CWA,"Wausau/Marshfield, WI: Central Wisconsin",27,8,5.12,0,2.02,0,0.86,3,0
+2008,1,9E,Pinnacle Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",148,35,16.5,0.58,7.42,0,10.51,2,0
+2008,1,9E,Pinnacle Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",112,13,3,1,4,0.72,4.28,4,0
+2008,1,9E,Pinnacle Airlines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",58,17,2.68,1.09,7.73,0,5.5,2,0
+2008,1,9E,Pinnacle Airlines Inc.,DLH,"Duluth, MN: Duluth International",84,19,8.53,1,6.47,0,3,4,0
+2008,1,9E,Pinnacle Airlines Inc.,DSM,"Des Moines, IA: Des Moines Muncipal",294,94,38.63,6.75,28.53,0,20.09,13,1
+2008,1,9E,Pinnacle Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",4690,1192,261.62,26.88,339.23,0.13,564.15,264,11
+2008,1,9E,Pinnacle Airlines Inc.,ELM,"Elmira/Corning, NY: Harris Hill Glider Port",113,30,11.44,0,10.09,0,8.47,7,0
+2008,1,9E,Pinnacle Airlines Inc.,ERI,"Erie, PA: Erie International",109,33,10.71,0.31,17.03,0,4.96,12,0
+2008,1,9E,Pinnacle Airlines Inc.,EVV,"Evansville, IN: Evansville Dress Regional",175,46,17.09,0.33,16.49,0,12.09,10,1
+2008,1,9E,Pinnacle Airlines Inc.,FAR,"Fargo, ND: Hector Field",102,26,11.83,0,8.69,0,5.48,5,0
+2008,1,9E,Pinnacle Airlines Inc.,FCA,"Kalispell, MT: Glacier Park International",5,0,0,0,0,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",31,5,0.39,0,3.61,0,1,0,0
+2008,1,9E,Pinnacle Airlines Inc.,FNT,"Flint, MI: Bishop",95,20,7.01,0,6.94,0,6.05,13,0
+2008,1,9E,Pinnacle Airlines Inc.,FSD,"Sioux Falls, SD: Regional Joe Foss Field",83,25,14.14,0,5.93,0,4.94,5,0
+2008,1,9E,Pinnacle Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",31,7,4.76,0,0.24,0,2,3,0
+2008,1,9E,Pinnacle Airlines Inc.,FWA,"Fort Wayne, IN: Fort Wayne Muni/Baer Field",115,25,11.17,0,4.17,0,9.66,3,0
+2008,1,9E,Pinnacle Airlines Inc.,GFK,"Grand Forks, ND: Grand Forks International",81,15,4.64,0.9,7.7,0,1.76,3,2
+2008,1,9E,Pinnacle Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport Municipal",93,25,9.53,2.83,5.48,0,7.16,0,0
+2008,1,9E,Pinnacle Airlines Inc.,GRB,"Green Bay/Clintonville, WI: Austin/Straubel",140,28,16.7,0,8.85,0,2.45,9,0
+2008,1,9E,Pinnacle Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",180,46,19.71,0,14.89,0,11.4,5,0
+2008,1,9E,Pinnacle Airlines Inc.,GSO,"Greensboro/High Point, NC: Greensboro High Point Winst",204,52,22.87,1.56,11.94,0,15.63,4,0
+2008,1,9E,Pinnacle Airlines Inc.,GSP,"Greenville/Spartanburg, SC: Greenville/Spartanburg Airport",188,61,23.51,5.26,16.94,0,15.29,12,1
+2008,1,9E,Pinnacle Airlines Inc.,GTF,"Great Falls, MT: Great Falls International",62,10,8.73,0,1.27,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,HLN,"Helena, MT: Helena Airport",31,8,3.83,0,4.17,0,0,0,1
+2008,1,9E,Pinnacle Airlines Inc.,HOU,"Houston, TX: William P Hobby",92,20,8.31,0.44,6.42,0,4.82,4,0
+2008,1,9E,Pinnacle Airlines Inc.,HPN,"White Plains, NY: Westchester County",64,28,12.93,0.92,6.44,0,7.71,0,0
+2008,1,9E,Pinnacle Airlines Inc.,HSV,"Huntsville, AL: Huntsville International  Carl Jones",150,35,16.25,2.16,9.16,0,7.43,6,0
+2008,1,9E,Pinnacle Airlines Inc.,IAD,"Washington, DC: Dulles International",40,10,4.68,0,2.82,0,2.5,2,0
+2008,1,9E,Pinnacle Airlines Inc.,IAH,"Houston, TX: Houston Intercontinental",143,45,10.15,3.31,16.64,0,14.89,5,0
+2008,1,9E,Pinnacle Airlines Inc.,ICT,"Wichita, KS: Mid-Continent",155,38,10.32,1.68,16.4,0,9.61,2,0
+2008,1,9E,Pinnacle Airlines Inc.,IDA,"Idaho Falls, ID: Fanning Field",31,11,4.61,0,6.39,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",593,108,29.62,3.45,33.5,0,41.43,30,1
+2008,1,9E,Pinnacle Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson - Evers International",149,39,22.48,0,9.64,0,6.88,4,0
+2008,1,9E,Pinnacle Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",85,21,9.37,1.7,7.36,0,2.57,2,0
+2008,1,9E,Pinnacle Airlines Inc.,LAN,"Lansing, MI: Capital City",108,38,13.38,1.83,11.97,0,10.82,0,0
+2008,1,9E,Pinnacle Airlines Inc.,LEX,"Lexington, KY: Blue Grass",119,31,13.98,0,10.03,0,6.98,2,0
+2008,1,9E,Pinnacle Airlines Inc.,LGA,"New York, NY: La Guardia",199,49,12.89,0.61,29.77,0,5.74,21,1
+2008,1,9E,Pinnacle Airlines Inc.,LIT,"Little Rock, AR: Adams Field",82,20,7.86,1.97,6.26,0,3.9,1,1
+2008,1,9E,Pinnacle Airlines Inc.,LNK,"Lincoln, NE: Lincoln Municipal",58,10,4.83,0,3.4,0,1.76,4,0
+2008,1,9E,Pinnacle Airlines Inc.,LSE,"La Crosse, WI: La Crosse Municipal",31,6,2.53,0,1.47,0,2,3,0
+2008,1,9E,Pinnacle Airlines Inc.,MBS,"Saginaw/Bay City/Midland, MI: Tri City",56,16,8.63,0,5.37,0,2,3,0
+2008,1,9E,Pinnacle Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",204,51,11.47,1,28.69,0,9.85,4,0
+2008,1,9E,Pinnacle Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International  Olmsted Field",73,26,12.72,0,7.79,0,5.49,2,0
+2008,1,9E,Pinnacle Airlines Inc.,MDW,"Chicago, IL: Chicago Midway",1,0,0,0,0,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,MEM,"Memphis, TN: Memphis International",3416,833,156,21.02,311.09,0,344.89,137,40
+2008,1,9E,Pinnacle Airlines Inc.,MGM,"Montgomery, AL: Dannelly Field",93,18,6.91,2.67,2.43,0,6,7,0
+2008,1,9E,Pinnacle Airlines Inc.,MLI,"Moline, IL: Quad/City",244,65,24.48,1.88,19.62,0,19.03,17,0
+2008,1,9E,Pinnacle Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",93,27,9.85,0,10.18,0,6.97,8,0
+2008,1,9E,Pinnacle Airlines Inc.,MSN,"Madison, WI: Truax Field",114,24,6.56,1.69,4.49,0,11.26,12,2
+2008,1,9E,Pinnacle Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",2550,583,146.03,16.13,175.1,0,245.74,164,5
+2008,1,9E,Pinnacle Airlines Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International Airport",31,9,3.16,0,5.84,0,0,1,0
+2008,1,9E,Pinnacle Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",189,57,26.99,2.5,14.3,0,13.21,4,1
+2008,1,9E,Pinnacle Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",225,76,41.06,1.55,18.95,0,14.44,8,0
+2008,1,9E,Pinnacle Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",101,41,15.78,2.75,17.09,0,5.38,4,0
+2008,1,9E,Pinnacle Airlines Inc.,PFN,"Panama City, FL: Bay County",93,25,5.39,2.35,11.38,0,5.88,3,0
+2008,1,9E,Pinnacle Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",147,34,10.47,1,10.3,0,12.23,3,1
+2008,1,9E,Pinnacle Airlines Inc.,PIA,"Peoria, IL: Greater Peoria",56,19,9.23,0,4.13,0,5.63,5,0
+2008,1,9E,Pinnacle Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",196,53,24.74,0.88,14.15,0,13.23,8,0
+2008,1,9E,Pinnacle Airlines Inc.,PLN,"Pellston, MI: Emmet County",25,3,1,0,1,0,1,10,0
+2008,1,9E,Pinnacle Airlines Inc.,PNS,"Pensacola, FL: Pensacola Regional",93,36,17.2,1.63,11.55,0,5.63,4,1
+2008,1,9E,Pinnacle Airlines Inc.,PWM,"Portland, ME: Portland International  Jetport",18,11,4.44,0,3.98,0,2.58,0,0
+2008,1,9E,Pinnacle Airlines Inc.,RAP,"Rapid City, SD: Rapid City Regional",31,8,4.4,0,3.38,0,0.21,4,0
+2008,1,9E,Pinnacle Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh Durham",151,24,12.98,2.83,4.28,0,3.91,5,0
+2008,1,9E,Pinnacle Airlines Inc.,RHI,"Rhinelander, WI: Rhinelander/Oneida County",31,7,3.51,0,2.11,0,1.38,5,0
+2008,1,9E,Pinnacle Airlines Inc.,RIC,"Richmond, VA: Richmond International Aqirport",126,29,10.98,0,7.51,0,10.51,2,0
+2008,1,9E,Pinnacle Airlines Inc.,ROA,"Roanoke, VA: Roanoke Municipal",68,21,9.48,0,9.85,0,1.67,5,0
+2008,1,9E,Pinnacle Airlines Inc.,ROC,"Rochester, NY: Rochester Monroe County",96,33,16.61,0,7.84,0,8.55,3,0
+2008,1,9E,Pinnacle Airlines Inc.,RST,"Rochester, MN: Rochester Municipal",93,19,9.26,0,6.26,0,3.47,6,2
+2008,1,9E,Pinnacle Airlines Inc.,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",37,5,3.92,0,1.08,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,SAV,"Savannah, GA: Savannah / Hilton Head International",44,13,4.5,0.8,5.43,0,2.27,1,0
+2008,1,9E,Pinnacle Airlines Inc.,SBN,"South Bend, IN: Michiana Regional",152,57,26.54,0,19.54,0.89,10.04,5,0
+2008,1,9E,Pinnacle Airlines Inc.,SCE,"State College, PA: University Park",31,11,3.94,1,4.62,0,1.44,4,0
+2008,1,9E,Pinnacle Airlines Inc.,SDF,"Louisville, KY: Standiford Field",267,67,25.85,3.78,21.76,0,15.61,6,0
+2008,1,9E,Pinnacle Airlines Inc.,SGF,"Springfield, MO: Springfield Regional",154,41,19.83,0.49,15.13,0,5.55,7,0
+2008,1,9E,Pinnacle Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",124,43,14.17,0.95,16.54,0,11.34,11,1
+2008,1,9E,Pinnacle Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake International",6,4,2.78,0,0.22,0,1,1,0
+2008,1,9E,Pinnacle Airlines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",2,1,0,0,1,0,0,0,0
+2008,1,9E,Pinnacle Airlines Inc.,STL,"St. Louis, MO: Lambert International",177,40,16.54,0,11.37,0,12.09,8,0
+2008,1,9E,Pinnacle Airlines Inc.,SUX,"Sioux City, IA: Sioux City Municipal",37,9,3.83,0,1.17,0,4,6,0
+2008,1,9E,Pinnacle Airlines Inc.,SWF,"Newburgh/Poughkeepsie, NY: Stewart",59,27,9.75,0,5.3,0,11.95,0,0
+2008,1,9E,Pinnacle Airlines Inc.,TLH,"Tallahassee, FL: Tallahassee Municipal",93,21,9.05,1,4.59,0,6.36,4,0
+2008,1,9E,Pinnacle Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",217,68,19.84,2.96,26.49,0,18.71,8,0
+2008,1,9E,Pinnacle Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",107,27,9.84,2.73,8.27,0,6.16,7,3
+2008,1,9E,Pinnacle Airlines Inc.,TYS,"Knoxville, TN: Mcghee Tyson",276,84,35.1,2.38,26.45,0,20.07,6,0
+2008,1,9E,Pinnacle Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",183,47,14.29,5.72,17.8,0,9.19,5,3
+2008,1,AA,American Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International",275,74,22.56,2.93,21.36,0,27.14,9,1
+2008,1,AA,American Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",711,174,50.65,6.45,42.35,0,74.54,41,0
+2008,1,AA,American Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",864,208,71.97,14.86,46.21,0,74.95,21,1
+2008,1,AA,American Airlines Inc.,BDL,"Hartford, CT: Bradley International",151,45,24.9,0.72,9.12,0,10.26,3,0
+2008,1,AA,American Airlines Inc.,BHM,"Birmingham, AL: Birmingham Municipal",93,16,6.91,0.29,3.34,0,5.46,0,0
+2008,1,AA,American Airlines Inc.,BNA,"Nashville, TN: Nashville Metropolitan",449,106,35.89,4.09,21.2,0,44.82,7,4
+2008,1,AA,American Airlines Inc.,BOS,"Boston, MA: Logan International",1036,302,105.25,16.06,86.98,1.59,92.12,51,2
+2008,1,AA,American Airlines Inc.,BUR,"Burbank, CA: Burbank Bob Hope",105,34,12.53,1.41,13.29,0,6.78,1,1
+2008,1,AA,American Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",266,66,32.16,2.65,10.85,0,20.34,6,0
+2008,1,AA,American Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",143,33,17.35,0.62,2.98,0,12.05,2,0
+2008,1,AA,American Airlines Inc.,CMH,"Columbus, OH: Columbus International",89,13,6.75,0.45,1.48,0,4.32,0,0
+2008,1,AA,American Airlines Inc.,COS,"Colorado Springs, CO: Peterson Field",155,33,16.54,2.08,4.78,0,9.6,6,1
+2008,1,AA,American Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",90,16,7.6,0.39,2.33,0,5.68,1,0
+2008,1,AA,American Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",859,220,78.48,17.44,39.57,0.53,83.98,27,0
+2008,1,AA,American Airlines Inc.,DEN,"Denver, CO: Denver International",612,207,65.58,13.58,47.27,0,80.57,13,0
+2008,1,AA,American Airlines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",13553,3215,607.3,97.55,1289.19,6.06,1214.9,329,26
+2008,1,AA,American Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",350,103,34.76,6.39,23.54,0,38.31,14,1
+2008,1,AA,American Airlines Inc.,EGE,"Eagle, CO: Eagle County Regional",181,79,27.05,4.62,16.51,0,30.82,2,0
+2008,1,AA,American Airlines Inc.,ELP,"El Paso, TX: El Paso International",303,90,33.21,1.64,19.41,0,35.74,9,0
+2008,1,AA,American Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",562,207,57.66,13.6,79.91,0.98,54.85,33,0
+2008,1,AA,American Airlines Inc.,FAT,"Fresno, CA: Fresno Air Terminal",62,28,10.91,0.48,11,0,5.6,1,0
+2008,1,AA,American Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",517,123,53.19,7.32,23.8,0,38.69,7,1
+2008,1,AA,American Airlines Inc.,GUC,"Gunnison, CO: Gunnison County",31,10,5.52,0.65,0.94,0,2.89,1,0
+2008,1,AA,American Airlines Inc.,HDN,"Steamboat Springs/Hayden, CO: Hayden",65,21,7.01,3.59,6.04,0,4.37,3,1
+2008,1,AA,American Airlines Inc.,HNL,"Honolulu, HI: Honolulu International",248,68,30.25,3.48,16.7,0,17.56,2,0
+2008,1,AA,American Airlines Inc.,HSV,"Huntsville, AL: Huntsville International  Carl Jones",59,11,3.51,0.12,0.49,0,6.88,0,0
+2008,1,AA,American Airlines Inc.,IAD,"Washington, DC: Dulles International",306,60,27.59,0.46,7.46,0,24.49,6,0
+2008,1,AA,American Airlines Inc.,IAH,"Houston, TX: Houston Intercontinental",364,105,35.77,5.49,34.32,0,29.42,10,0
+2008,1,AA,American Airlines Inc.,ICT,"Wichita, KS: Mid-Continent",120,29,11.64,1.16,6.24,0,9.95,7,0
+2008,1,AA,American Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",213,54,20.79,0.96,13.12,0,19.13,7,0
+2008,1,AA,American Airlines Inc.,JAC,"Jackson, WY: Jacksons Hole",49,19,8.78,2.74,2.3,0,5.18,2,0
+2008,1,AA,American Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",120,20,8.73,1.33,4.96,0,4.98,0,0
+2008,1,AA,American Airlines Inc.,JFK,"New York, NY: Kennedy International",1070,309,87.79,6.53,130.24,0.62,83.82,28,1
+2008,1,AA,American Airlines Inc.,KOA,"Kona, HI: Keahole",31,17,4.99,0,3.4,0,8.6,0,0
+2008,1,AA,American Airlines Inc.,LAS,"Las Vegas, NV: Mccarran International",632,245,84.26,14.72,90.17,0,55.85,13,0
+2008,1,AA,American Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2563,975,227.18,38.6,451.57,1.97,255.69,58,7
+2008,1,AA,American Airlines Inc.,LGA,"New York, NY: La Guardia",1874,656,140.19,23.74,311.97,0,180.1,112,3
+2008,1,AA,American Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",31,5,2.96,0,1.09,0,0.95,0,0
+2008,1,AA,American Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",418,146,52.98,10.78,26.77,0,55.46,25,1
+2008,1,AA,American Airlines Inc.,MCO,"Orlando, FL: Orlando International",929,284,115.42,10.8,72.14,0.55,85.09,6,1
+2008,1,AA,American Airlines Inc.,MEM,"Memphis, TN: Memphis International",144,17,4.45,0.06,3.78,0,8.72,10,1
+2008,1,AA,American Airlines Inc.,MFE,"Mission/Mcallen/Edinburg, TX: Miller International",123,29,12.19,0.99,3.76,0,12.05,2,2
+2008,1,AA,American Airlines Inc.,MIA,"Miami, FL: Miami International",3479,1026,305.86,41.62,336.01,1.59,340.92,56,11
+2008,1,AA,American Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",507,135,36.48,15.75,30.69,0,52.08,21,0
+2008,1,AA,American Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong International",423,122,45.95,5.15,23.27,0,47.63,8,0
+2008,1,AA,American Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose County",12,4,1.6,0.15,1.51,0,0.73,0,1
+2008,1,AA,American Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",93,36,12.06,0.89,16.7,0,6.35,1,0
+2008,1,AA,American Airlines Inc.,OGG,"Kahului, HI: Kahului Airport",93,24,9.89,0.3,7.27,0,6.53,0,0
+2008,1,AA,American Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",213,46,25.46,1.49,3.8,0,15.24,2,0
+2008,1,AA,American Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",147,39,15.48,2.05,6.24,0,15.24,1,0
+2008,1,AA,American Airlines Inc.,ONT,"Ontario/San Bernardino, CA: La/Ontario International",151,57,18.6,2.16,27.6,0,8.64,1,1
+2008,1,AA,American Airlines Inc.,ORD,"Chicago, IL: O'Hare",6169,2554,250.96,20.3,1576.43,1.09,705.22,416,19
+2008,1,AA,American Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",62,14,7.5,0.42,3.16,0,2.92,0,0
+2008,1,AA,American Airlines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",178,59,16.39,5,18.81,0.33,18.47,2,0
+2008,1,AA,American Airlines Inc.,PDX,"Portland, OR: Portland International",120,27,11.66,0.57,7.5,0,7.28,1,0
+2008,1,AA,American Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",472,135,46.16,6.34,35.46,0,47.04,17,2
+2008,1,AA,American Airlines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",520,176,64.66,15.09,50.57,0,45.68,10,1
+2008,1,AA,American Airlines Inc.,PSP,"Indio/Palm Springs, CA: Palm Springs International",159,86,32.3,5.19,30.63,0,17.89,3,3
+2008,1,AA,American Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh Durham",502,148,45.05,8.06,23.19,0,71.7,11,0
+2008,1,AA,American Airlines Inc.,RIC,"Richmond, VA: Richmond International Aqirport",89,18,8.97,0.29,3.69,0,5.05,0,0
+2008,1,AA,American Airlines Inc.,RNO,"Reno, NV: Reno International",123,65,24.62,3.07,18.9,0,18.41,1,0
+2008,1,AA,American Airlines Inc.,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",217,55,17.88,7.53,10.04,0,19.54,1,1
+2008,1,AA,American Airlines Inc.,SAN,"San Diego, CA: San Diego International",519,191,56.68,9.81,76.02,0,48.49,9,7
+2008,1,AA,American Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",576,152,57.55,9.57,29.72,0,55.16,12,0
+2008,1,AA,American Airlines Inc.,SDF,"Louisville, KY: Standiford Field",68,4,1.25,0.04,0.48,0,2.23,0,0
+2008,1,AA,American Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",429,130,50.81,10.55,37.29,0,31.35,9,0
+2008,1,AA,American Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",976,493,72.59,7.46,345.37,0.34,67.24,48,3
+2008,1,AA,American Airlines Inc.,SJC,"San Jose, CA: San Jose International",352,129,38.55,6.3,58.5,0,25.65,4,1
+2008,1,AA,American Airlines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",1035,307,133.27,15.48,103.41,2.81,52.03,25,0
+2008,1,AA,American Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake International",213,95,32.52,9.77,36.64,0,16.08,2,2
+2008,1,AA,American Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",130,52,20.05,0.4,25.24,0,6.32,0,1
+2008,1,AA,American Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",542,206,50.13,15.92,83.41,0,56.54,16,3
+2008,1,AA,American Airlines Inc.,STL,"St. Louis, MO: Lambert International",1570,344,85.53,17.79,90.01,0,150.67,77,0
+2008,1,AA,American Airlines Inc.,STT,"Charlotte Amalie, VI: Harry S. Truman",149,31,11.76,0.36,8.16,0,10.73,3,0
+2008,1,AA,American Airlines Inc.,STX,"Christiansted, VI: Alexander Hamilton",31,7,4.61,0,0.46,0,1.92,0,0
+2008,1,AA,American Airlines Inc.,TPA,"Tampa, FL: Tampa International",616,169,68.25,5.86,32.05,0,62.84,5,2
+2008,1,AA,American Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",248,86,28.99,5.05,15.74,0,36.22,8,0
+2008,1,AA,American Airlines Inc.,TUS,"Tucson, AZ: Tucson International",330,134,46.44,9.18,34.18,0,44.2,6,0
+2008,1,AA,American Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",81,19,6.16,0.3,3.13,0,9.41,6,0
+2008,1,AQ,Aloha Air Cargo,HNL,"Honolulu, HI: Honolulu International",1663,79,37.13,1,1,1,38.87,8,1
+2008,1,AQ,Aloha Air Cargo,ITO,"Hilo, HI: General Lyman",275,9,6,0,0,0,3,2,0
+2008,1,AQ,Aloha Air Cargo,KOA,"Kona, HI: Keahole",459,26,12.71,0,1,0,12.29,0,0
+2008,1,AQ,Aloha Air Cargo,LAS,"Las Vegas, NV: Mccarran International",31,4,4,0,0,0,0,0,0
+2008,1,AQ,Aloha Air Cargo,LIH,"Lihue, HI: Lihue Airport",512,24,11.61,0,2,0,10.39,4,0
+2008,1,AQ,Aloha Air Cargo,OAK,"Oakland, CA: Metropolitan Oakland International",97,19,15,0,3,0,1,1,0
+2008,1,AQ,Aloha Air Cargo,OGG,"Kahului, HI: Kahului Airport",696,38,22.58,2,2,0,11.42,3,0
+2008,1,AQ,Aloha Air Cargo,RNO,"Reno, NV: Reno International",31,4,2,0,0,0,2,3,0
+2008,1,AQ,Aloha Air Cargo,SAN,"San Diego, CA: San Diego International",43,12,7.08,1,0,1,2.92,0,1
+2008,1,AQ,Aloha Air Cargo,SMF,"Sacramento, CA: Sacramento International",61,10,8,0,0,0,2,0,0
+2008,1,AQ,Aloha Air Cargo,SNA,"Santa Ana, CA: John Wayne Orange County",160,23,17,2,3,1,0,4,1
+2008,1,AS,Alaska Airlines Inc.,ADK,"Adak Island, AK: Adak Ns",9,4,1.07,0.63,2.3,0,0,0,0
+2008,1,AS,Alaska Airlines Inc.,ADQ,"Kodiak, AK: Kodiak",62,11,4.14,2.46,2.98,0,1.42,5,0
+2008,1,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK: Anchorage International",1169,290,74.73,6.2,83.87,5.37,119.83,46,0
+2008,1,AS,Alaska Airlines Inc.,BET,"Bethel, AK: Bethel Airport",88,18,2.82,3.8,9.08,0,2.29,6,0
+2008,1,AS,Alaska Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",14,3,1,0,0.41,0,1.59,1,0
+2008,1,AS,Alaska Airlines Inc.,BOS,"Boston, MA: Logan International",62,9,3.17,0,5.83,0,0,1,0
+2008,1,AS,Alaska Airlines Inc.,BRW,"Barrow, AK: Wiley Post/Will Rogers Memorial",62,17,1.96,1.17,1.43,2.06,10.37,1,1
+2008,1,AS,Alaska Airlines Inc.,BUR,"Burbank, CA: Burbank Bob Hope",154,34,14.29,0.76,13.17,0,5.77,4,0
+2008,1,AS,Alaska Airlines Inc.,CDV,"Cordova, AK: Mile 13 Field",62,25,6.43,1,3.92,0,13.64,0,1
+2008,1,AS,Alaska Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",93,15,6.73,0,5.78,0,2.5,0,0
+2008,1,AS,Alaska Airlines Inc.,DEN,"Denver, CO: Denver International",186,46,17.43,0.01,20.03,0,8.53,6,0
+2008,1,AS,Alaska Airlines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",93,14,6.49,0,6.52,0,1,2,0
+2008,1,AS,Alaska Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",62,22,2.32,0.08,16.61,0,3,1,0
+2008,1,AS,Alaska Airlines Inc.,FAI,"Fairbanks, AK: Fairbanks International",403,90,30.24,1.09,29.07,0.29,29.31,9,1
+2008,1,AS,Alaska Airlines Inc.,GEG,"Spokane, WA: Spokane International",119,27,9.68,0.76,9.11,0.5,6.94,5,0
+2008,1,AS,Alaska Airlines Inc.,HNL,"Honolulu, HI: Honolulu International",62,11,4.3,0,5.7,0,1,0,0
+2008,1,AS,Alaska Airlines Inc.,JNU,"Juneau, AK: Juneau",309,69,17.95,5.38,14.22,1,30.45,14,20
+2008,1,AS,Alaska Airlines Inc.,KTN,"Ketchikan, AK: Ketchikan International",186,47,14.88,4.92,9.61,0,17.59,5,2
+2008,1,AS,Alaska Airlines Inc.,LAS,"Las Vegas, NV: Mccarran International",361,88,22.79,0.36,35.69,0,29.16,4,0
+2008,1,AS,Alaska Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",509,120,42.54,0.42,55.35,0,21.68,4,2
+2008,1,AS,Alaska Airlines Inc.,LGB,"Long Beach, CA: Long Beach Daugherty Field",93,17,7.24,1,4.41,0,4.35,2,3
+2008,1,AS,Alaska Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",31,2,0,0,1,0,1,0,0
+2008,1,AS,Alaska Airlines Inc.,MCO,"Orlando, FL: Orlando International",93,13,7.74,0.12,3.24,0,1.89,1,0
+2008,1,AS,Alaska Airlines Inc.,MIA,"Miami, FL: Miami International",31,9,7.27,0,1.73,0,0,0,2
+2008,1,AS,Alaska Airlines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",442,71,23.25,1.67,19.96,0,26.12,23,2
+2008,1,AS,Alaska Airlines Inc.,OME,"Nome, AK: Nome Airport",92,14,4.92,3.63,2.21,0,3.24,6,11
+2008,1,AS,Alaska Airlines Inc.,ONT,"Ontario/San Bernardino, CA: La/Ontario International",155,41,12.97,0,13.79,0.56,13.68,3,1
+2008,1,AS,Alaska Airlines Inc.,ORD,"Chicago, IL: O'Hare",124,45,7.16,0.32,35.04,0,2.49,3,0
+2008,1,AS,Alaska Airlines Inc.,OTZ,"Kotzebue, AK: Ralph Wien Memorial",92,9,2.62,0.71,1.76,0,3.91,8,7
+2008,1,AS,Alaska Airlines Inc.,PDX,"Portland, OR: Portland International",1141,256,62.66,2.76,78.18,3.45,108.95,42,0
+2008,1,AS,Alaska Airlines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",310,57,17.96,0.42,20.68,0,17.95,3,0
+2008,1,AS,Alaska Airlines Inc.,PSG,"Petersburg, AK: Petersburg Sea Plane Base",62,18,2.29,4.76,0.8,0,10.16,3,2
+2008,1,AS,Alaska Airlines Inc.,PSP,"Indio/Palm Springs, CA: Palm Springs International",215,74,18.06,0,15.73,0.25,39.96,4,2
+2008,1,AS,Alaska Airlines Inc.,RNO,"Reno, NV: Reno International",26,4,2.75,0,1.25,0,0,0,0
+2008,1,AS,Alaska Airlines Inc.,SAN,"San Diego, CA: San Diego International",341,91,35.05,0.33,33.72,0.69,21.2,3,4
+2008,1,AS,Alaska Airlines Inc.,SCC,"Deadhorse, AK: Deadhorse Airport",62,14,5.59,0.19,2.69,0,5.53,3,0
+2008,1,AS,Alaska Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",3753,873,194.2,12.55,316.47,8.15,341.62,85,5
+2008,1,AS,Alaska Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",430,172,21.47,1,113.7,0.65,35.18,13,11
+2008,1,AS,Alaska Airlines Inc.,SIT,"Sitka, AK: Sitka Harbor Sea Plane Base",93,29,4.23,3.56,4.4,0,16.81,6,2
+2008,1,AS,Alaska Airlines Inc.,SJC,"San Jose, CA: San Jose International",271,63,22.72,1.11,19.83,0.46,18.88,9,0
+2008,1,AS,Alaska Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",141,32,9.53,0.88,6.74,0,14.85,2,0
+2008,1,AS,Alaska Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",511,91,29.61,0.27,31.53,0,29.59,16,1
+2008,1,AS,Alaska Airlines Inc.,TUS,"Tucson, AZ: Tucson International",31,2,0.66,0,0.84,0,0.5,0,0
+2008,1,AS,Alaska Airlines Inc.,WRG,"Wrangell, AK: Wrangell Airport",62,16,3.12,1.74,2.27,0,8.86,2,3
+2008,1,AS,Alaska Airlines Inc.,YAK,"Yakutat, AK: Yakutat Airport",62,24,4.01,0.12,4.46,0,15.41,4,2
+2008,1,B6,JetBlue Airways,AUS,"Austin, TX: Austin - Bergstrom International",121,39,9.48,0,18.96,0,10.55,2,0
+2008,1,B6,JetBlue Airways,BNA,"Nashville, TN: Nashville Metropolitan",17,2,1.08,0,0.92,0,0,0,0
+2008,1,B6,JetBlue Airways,BOS,"Boston, MA: Logan International",1631,252,51.07,0.14,93.32,0,107.47,40,2
+2008,1,B6,JetBlue Airways,BQN,"Aguadilla, PR: Borinquen",93,14,4.74,0,3.78,0,5.48,0,0
+2008,1,B6,JetBlue Airways,BTV,"Burlington, VT: Burlington International",153,23,7.65,0,6.53,0,8.82,1,0
+2008,1,B6,JetBlue Airways,BUF,"Buffalo, NY: Buffalo Niagara International",385,68,18.48,0,19.28,0,30.24,16,0
+2008,1,B6,JetBlue Airways,BUR,"Burbank, CA: Burbank Bob Hope",147,39,4.01,0,27.87,0,7.12,0,0
+2008,1,B6,JetBlue Airways,CLT,"Charlotte, NC: Charlotte Douglas International",152,55,16.85,0.02,25.39,0.63,12.1,1,1
+2008,1,B6,JetBlue Airways,CMH,"Columbus, OH: Columbus International",23,7,3.03,0,1.73,0,2.24,0,0
+2008,1,B6,JetBlue Airways,DEN,"Denver, CO: Denver International",85,24,5.39,0,8.76,0,9.85,1,0
+2008,1,B6,JetBlue Airways,EWR,"Newark, NJ: Newark Liberty International",368,112,8.43,0,78.25,0,25.32,0,1
+2008,1,B6,JetBlue Airways,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",1137,295,61.51,0.48,125.11,1.44,106.46,6,2
+2008,1,B6,JetBlue Airways,HOU,"Houston, TX: William P Hobby",90,28,5.84,0.55,12.11,0,9.5,2,0
+2008,1,B6,JetBlue Airways,HPN,"White Plains, NY: Westchester County",180,38,6.14,0,11.21,0,20.65,0,1
+2008,1,B6,JetBlue Airways,IAD,"Washington, DC: Dulles International",636,110,32.43,0,24.8,0,52.77,8,0
+2008,1,B6,JetBlue Airways,JAX,"Jacksonville, FL: Jacksonville International",93,20,8.34,0,7.85,0,3.82,1,0
+2008,1,B6,JetBlue Airways,JFK,"New York, NY: Kennedy International",4551,968,161.18,2.42,411.46,0.66,392.29,67,8
+2008,1,B6,JetBlue Airways,LAS,"Las Vegas, NV: Mccarran International",285,55,11.77,0,21.82,0,21.41,2,0
+2008,1,B6,JetBlue Airways,LGA,"New York, NY: La Guardia",245,89,12.71,0,45.32,0,30.97,2,2
+2008,1,B6,JetBlue Airways,LGB,"Long Beach, CA: Long Beach Daugherty Field",694,171,30.05,2.7,84.19,0.35,53.7,11,1
+2008,1,B6,JetBlue Airways,MCO,"Orlando, FL: Orlando International",1116,232,47.42,0.55,98.63,1.11,84.29,5,2
+2008,1,B6,JetBlue Airways,MSY,"New Orleans, LA: Louis Armstrong International",93,25,7.7,0,12.48,0,4.81,1,0
+2008,1,B6,JetBlue Airways,OAK,"Oakland, CA: Metropolitan Oakland International",313,77,15.18,0,33.02,0,28.8,2,1
+2008,1,B6,JetBlue Airways,ONT,"Ontario/San Bernardino, CA: La/Ontario International",31,5,1.71,0,1.44,0,1.86,0,0
+2008,1,B6,JetBlue Airways,ORD,"Chicago, IL: O'Hare",202,82,7.42,0.38,56.89,0,17.31,9,0
+2008,1,B6,JetBlue Airways,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",533,122,23.56,0,53.34,0,45.11,4,2
+2008,1,B6,JetBlue Airways,PDX,"Portland, OR: Portland International",31,1,0.06,0,0.21,0,0.73,0,0
+2008,1,B6,JetBlue Airways,PHX,"Phoenix, AZ: Sky Harbor International",62,10,2.26,0,6.2,0,1.55,0,0
+2008,1,B6,JetBlue Airways,PIT,"Pittsburgh, PA: Pittsburgh International",149,29,9.89,0.92,6.34,0,11.85,4,0
+2008,1,B6,JetBlue Airways,PSE,"Ponce, PR: Mercedita",93,13,2.37,0,2,0,8.63,0,0
+2008,1,B6,JetBlue Airways,PWM,"Portland, ME: Portland International  Jetport",144,16,3.62,0,4,0,8.38,1,0
+2008,1,B6,JetBlue Airways,RDU,"Raleigh/Durham, NC: Raleigh Durham",152,28,10.95,0,8.25,0,8.79,2,0
+2008,1,B6,JetBlue Airways,RIC,"Richmond, VA: Richmond International Aqirport",184,36,10.67,0.08,8.32,0.07,16.86,5,0
+2008,1,B6,JetBlue Airways,ROC,"Rochester, NY: Rochester Monroe County",183,37,10.44,0,8.82,0,17.74,3,0
+2008,1,B6,JetBlue Airways,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",401,88,19.89,1.62,47.91,0,18.58,4,1
+2008,1,B6,JetBlue Airways,SAN,"San Diego, CA: San Diego International",151,28,5.03,0,15.97,0,7,1,1
+2008,1,B6,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",62,9,1.58,0,3,0,4.42,0,0
+2008,1,B6,JetBlue Airways,SFO,"San Francisco, CA: San Francisco International",154,79,5.82,0,51.8,0,21.38,1,2
+2008,1,B6,JetBlue Airways,SJC,"San Jose, CA: San Jose International",62,7,1.42,0,4.23,0,1.35,1,1
+2008,1,B6,JetBlue Airways,SJU,"San Juan, PR: Luis Munoz Marin International",228,38,14.01,0.07,12.68,0.89,10.36,0,0
+2008,1,B6,JetBlue Airways,SLC,"Salt Lake City, UT: Salt Lake International",190,41,11.04,0,8.19,0,21.78,2,0
+2008,1,B6,JetBlue Airways,SMF,"Sacramento, CA: Sacramento International",93,17,3.83,0,4.08,0,9.08,1,0
+2008,1,B6,JetBlue Airways,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",62,10,1.91,0,5.86,0,2.23,1,0
+2008,1,B6,JetBlue Airways,SWF,"Newburgh/Poughkeepsie, NY: Stewart",141,28,4.37,0.41,5.62,0,17.59,1,0
+2008,1,B6,JetBlue Airways,SYR,"Syracuse, NY: Syracuse Hancock International",186,45,13.29,0,12.55,0,19.16,1,1
+2008,1,B6,JetBlue Airways,TPA,"Tampa, FL: Tampa International",314,75,13.59,0,35.97,0.03,25.41,2,0
+2008,1,B6,JetBlue Airways,TUS,"Tucson, AZ: Tucson International",31,6,1.67,0,2.22,0,2.11,0,0
+2008,1,CO,Continental Air Lines Inc.,ABQ,"Albuquerque, NM: Albuquerque International",83,14,3.42,0.27,7.88,0,2.42,0,0
+2008,1,CO,Continental Air Lines Inc.,ANC,"Anchorage, AK: Anchorage International",51,12,3.29,0,3.48,0.86,4.37,0,0
+2008,1,CO,Continental Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",323,78,17.62,3.31,31.11,0.28,25.68,5,0
+2008,1,CO,Continental Air Lines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",382,105,31.17,2.22,40,0.66,30.94,2,0
+2008,1,CO,Continental Air Lines Inc.,BDL,"Hartford, CT: Bradley International",6,2,1.11,0,0.08,0,0.81,0,0
+2008,1,CO,Continental Air Lines Inc.,BHM,"Birmingham, AL: Birmingham Municipal",31,10,4.2,0.05,4.16,0,1.59,0,0
+2008,1,CO,Continental Air Lines Inc.,BOS,"Boston, MA: Logan International",474,111,22.31,3.57,52.84,0.64,31.64,13,0
+2008,1,CO,Continental Air Lines Inc.,BQN,"Aguadilla, PR: Borinquen",31,15,6.84,0.57,6.64,0,0.95,0,0
+2008,1,CO,Continental Air Lines Inc.,BTR,"Baton Rouge, LA: Ryan",25,9,2.39,0.01,4.9,0,1.7,0,0
+2008,1,CO,Continental Air Lines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",25,4,2,0,1,1,0,0,0
+2008,1,CO,Continental Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",142,31,7.56,1.28,12.08,1.09,8.99,0,0
+2008,1,CO,Continental Air Lines Inc.,CLE,"Cleveland, OH: Hopkins International",1174,220,55.39,4.06,76.27,0.34,83.94,3,2
+2008,1,CO,Continental Air Lines Inc.,CMH,"Columbus, OH: Columbus International",116,38,14.25,0.06,12.41,0.64,10.64,0,0
+2008,1,CO,Continental Air Lines Inc.,DAB,"Daytona Beach, FL: Daytona Beach Regional",25,3,0.5,0,2.5,0,0,0,0
+2008,1,CO,Continental Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",370,68,13.28,0.24,31.11,0.77,22.6,11,1
+2008,1,CO,Continental Air Lines Inc.,DEN,"Denver, CO: Denver International",332,60,14.03,0.26,23.69,1.58,20.44,0,0
+2008,1,CO,Continental Air Lines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",288,89,23.74,2.12,40.22,1.43,21.48,2,0
+2008,1,CO,Continental Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",171,38,12.56,1.37,14.71,0.98,8.38,1,1
+2008,1,CO,Continental Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",62,9,1.13,0.15,2.87,0.85,4,0,2
+2008,1,CO,Continental Air Lines Inc.,ELP,"El Paso, TX: El Paso International",45,13,4.61,0.88,2.84,0,4.67,0,0
+2008,1,CO,Continental Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4739,1344,140.11,52.47,872.81,5.44,273.17,79,6
+2008,1,CO,Continental Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",486,112,32.28,5.61,52.53,0,21.57,4,0
+2008,1,CO,Continental Air Lines Inc.,HDN,"Steamboat Springs/Hayden, CO: Hayden",35,9,1.89,0.13,5.42,0,1.56,0,1
+2008,1,CO,Continental Air Lines Inc.,HNL,"Honolulu, HI: Honolulu International",124,24,6.71,0.4,6.37,0.76,9.77,0,0
+2008,1,CO,Continental Air Lines Inc.,IAD,"Washington, DC: Dulles International",9,3,0.11,0,1.14,0.31,1.44,0,0
+2008,1,CO,Continental Air Lines Inc.,IAH,"Houston, TX: Houston Intercontinental",7285,1523,260.45,27.68,814.44,7.71,412.72,19,3
+2008,1,CO,Continental Air Lines Inc.,IND,"Indianapolis, IN: Indianapolis International",86,20,8.14,0,6.76,0,5.1,0,0
+2008,1,CO,Continental Air Lines Inc.,JAX,"Jacksonville, FL: Jacksonville International",118,29,10.03,0.59,8.31,0.67,9.4,1,0
+2008,1,CO,Continental Air Lines Inc.,JFK,"New York, NY: Kennedy International",103,22,5.5,0.09,11.11,0.74,4.56,1,0
+2008,1,CO,Continental Air Lines Inc.,LAS,"Las Vegas, NV: Mccarran International",459,119,28.15,1.76,62.74,0.66,25.69,1,0
+2008,1,CO,Continental Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",583,219,63.45,2.22,129.59,1.29,22.45,1,1
+2008,1,CO,Continental Air Lines Inc.,LGA,"New York, NY: La Guardia",404,115,12.25,0.25,85.8,0.1,16.61,4,0
+2008,1,CO,Continental Air Lines Inc.,MCI,"Kansas City, MO: Kansas City International",31,15,7.98,0.19,1.96,0,4.87,0,0
+2008,1,CO,Continental Air Lines Inc.,MCO,"Orlando, FL: Orlando International",617,125,36.82,1.57,64.88,0.22,21.51,2,1
+2008,1,CO,Continental Air Lines Inc.,MDW,"Chicago, IL: Chicago Midway",42,7,0.45,0,2.39,0,4.16,1,3
+2008,1,CO,Continental Air Lines Inc.,MFE,"Mission/Mcallen/Edinburg, TX: Miller International",163,33,9.67,0.3,11.58,0,11.45,5,1
+2008,1,CO,Continental Air Lines Inc.,MIA,"Miami, FL: Miami International",325,67,20.93,1.24,27.65,0.7,16.49,1,0
+2008,1,CO,Continental Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",121,22,7.54,1.83,6.82,0.4,5.41,2,0
+2008,1,CO,Continental Air Lines Inc.,MSY,"New Orleans, LA: Louis Armstrong International",412,90,27.57,1.68,35.11,0.27,25.38,1,0
+2008,1,CO,Continental Air Lines Inc.,MTJ,"Montrose/Delta, CO: Montrose County",13,1,0.71,0,0.29,0,0,0,1
+2008,1,CO,Continental Air Lines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",85,24,4.37,1.49,12.73,0,5.4,0,0
+2008,1,CO,Continental Air Lines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",57,10,5.3,0,1.31,0,3.39,0,0
+2008,1,CO,Continental Air Lines Inc.,OMA,"Omaha, NE: Eppley Airfield",31,5,2.96,0,0.61,0,1.43,0,0
+2008,1,CO,Continental Air Lines Inc.,ONT,"Ontario/San Bernardino, CA: La/Ontario International",93,25,6.27,0.31,11.06,0.3,7.06,0,0
+2008,1,CO,Continental Air Lines Inc.,ORD,"Chicago, IL: O'Hare",352,144,10.67,0.29,118.52,1,13.53,10,1
+2008,1,CO,Continental Air Lines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",344,77,26.09,1.87,32,0.03,17.01,3,0
+2008,1,CO,Continental Air Lines Inc.,PDX,"Portland, OR: Portland International",136,34,13.57,0.33,13.11,0.33,6.65,0,0
+2008,1,CO,Continental Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",148,35,9.39,0.1,16.93,1.03,7.54,0,0
+2008,1,CO,Continental Air Lines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",350,90,24.12,2.04,39.71,1.26,22.87,1,0
+2008,1,CO,Continental Air Lines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",59,15,6.69,1.71,4.92,0,1.68,0,0
+2008,1,CO,Continental Air Lines Inc.,PSE,"Ponce, PR: Mercedita",16,1,0.25,0,0.75,0,0,0,0
+2008,1,CO,Continental Air Lines Inc.,PSP,"Indio/Palm Springs, CA: Palm Springs International",31,5,2.77,0,2.23,0,0,0,1
+2008,1,CO,Continental Air Lines Inc.,RDU,"Raleigh/Durham, NC: Raleigh Durham",113,33,10.48,0.53,9.9,0.4,11.69,1,0
+2008,1,CO,Continental Air Lines Inc.,RNO,"Reno, NV: Reno International",59,8,0.84,0.11,3.7,1,2.35,1,0
+2008,1,CO,Continental Air Lines Inc.,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",281,43,11.96,1.05,16.42,0,13.56,2,0
+2008,1,CO,Continental Air Lines Inc.,SAN,"San Diego, CA: San Diego International",277,81,26.26,1.49,40.5,0.34,12.41,3,4
+2008,1,CO,Continental Air Lines Inc.,SAT,"San Antonio, TX: San Antonio International",386,91,28.96,2.76,40.03,0.81,18.45,1,0
+2008,1,CO,Continental Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",308,90,33.19,1.87,32.19,1,21.75,1,0
+2008,1,CO,Continental Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",372,185,26.76,4.62,134.15,1.53,17.93,3,6
+2008,1,CO,Continental Air Lines Inc.,SJC,"San Jose, CA: San Jose International",98,40,11.93,1.24,15.41,0,11.42,1,0
+2008,1,CO,Continental Air Lines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",189,55,23.95,0.3,19.84,1,9.92,0,0
+2008,1,CO,Continental Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake International",71,22,8.64,0.04,11.02,0.42,1.88,0,2
+2008,1,CO,Continental Air Lines Inc.,SMF,"Sacramento, CA: Sacramento International",93,28,8.59,0.83,8.82,1,8.75,0,1
+2008,1,CO,Continental Air Lines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",213,41,10.91,1.21,20.8,0.07,8,1,0
+2008,1,CO,Continental Air Lines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",56,8,2.75,0,3.28,0,1.97,1,0
+2008,1,CO,Continental Air Lines Inc.,STT,"Charlotte Amalie, VI: Harry S. Truman",31,4,0.35,0.65,3,0,0,0,0
+2008,1,CO,Continental Air Lines Inc.,TPA,"Tampa, FL: Tampa International",472,95,26.63,1.64,39.6,0,27.13,5,0
+2008,1,CO,Continental Air Lines Inc.,TUL,"Tulsa, OK: Tulsa International",56,12,2.91,0.51,5.02,0,3.55,0,0
+2008,1,CO,Continental Air Lines Inc.,TUS,"Tucson, AZ: Tucson International",89,21,5.18,0.58,8.39,0,6.86,0,0
+2008,1,DL,Delta Air Lines Inc.,ABQ,"Albuquerque, NM: Albuquerque International",118,21,4.3,0,13.43,0,3.27,4,1
+2008,1,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK: Anchorage International",31,11,1.26,0,9.34,0,0.4,0,0
+2008,1,DL,Delta Air Lines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",12282,1756,430.32,38.12,796.57,0.89,490.1,433,33
+2008,1,DL,Delta Air Lines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",46,10,3.12,0,4.41,0,2.47,3,0
+2008,1,DL,Delta Air Lines Inc.,BDL,"Hartford, CT: Bradley International",476,80,18.91,0.81,29.09,0,31.19,14,0
+2008,1,DL,Delta Air Lines Inc.,BHM,"Birmingham, AL: Birmingham Municipal",125,22,11.72,1.64,2.45,0,6.19,5,0
+2008,1,DL,Delta Air Lines Inc.,BNA,"Nashville, TN: Nashville Metropolitan",79,13,6.96,0.16,1.42,0,4.46,4,1
+2008,1,DL,Delta Air Lines Inc.,BOI,"Boise, ID: Boise Air Terminal",62,18,5.59,1.33,3.48,0,7.6,0,0
+2008,1,DL,Delta Air Lines Inc.,BOS,"Boston, MA: Logan International",1279,194,48.9,2.13,87.85,0,55.12,64,1
+2008,1,DL,Delta Air Lines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",88,22,7.62,0.87,5.69,0,7.83,5,0
+2008,1,DL,Delta Air Lines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",329,45,13.42,0.64,21.04,0,9.9,9,0
+2008,1,DL,Delta Air Lines Inc.,BZN,"Bozeman, MT: Gallatin Field",6,1,1,0,0,0,0,1,0
+2008,1,DL,Delta Air Lines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",30,12,2.62,0,1.77,0,7.61,1,0
+2008,1,DL,Delta Air Lines Inc.,CHS,"Charleston, SC: Charleston International",147,27,7.34,1.08,7.43,0,11.15,6,0
+2008,1,DL,Delta Air Lines Inc.,CLE,"Cleveland, OH: Hopkins International",30,2,0.9,0.17,0.93,0,0,1,0
+2008,1,DL,Delta Air Lines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",262,39,14.3,0.36,10.91,0,13.43,8,0
+2008,1,DL,Delta Air Lines Inc.,CMH,"Columbus, OH: Columbus International",98,17,4,0.15,4.25,0,8.61,4,0
+2008,1,DL,Delta Air Lines Inc.,COS,"Colorado Springs, CO: Peterson Field",26,4,0.29,0.33,2.81,0,0.57,0,0
+2008,1,DL,Delta Air Lines Inc.,CVG,"Cincinnati, OH: Cincinnati/ Northern Kentucky International",1629,237,56.68,7.28,84.43,1,87.6,31,1
+2008,1,DL,Delta Air Lines Inc.,DAB,"Daytona Beach, FL: Daytona Beach Regional",153,14,4.91,0.38,3.73,0,4.98,7,0
+2008,1,DL,Delta Air Lines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",60,11,2.44,1.16,3.65,0,3.74,1,0
+2008,1,DL,Delta Air Lines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",907,103,27,1.36,53.18,0,21.46,58,1
+2008,1,DL,Delta Air Lines Inc.,DEN,"Denver, CO: Denver International",339,64,18.49,1.07,32.09,0,12.35,10,0
+2008,1,DL,Delta Air Lines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",364,71,21.57,1.87,29.34,0,18.22,15,0
+2008,1,DL,Delta Air Lines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",86,22,4.79,1.61,12.4,0,3.2,2,0
+2008,1,DL,Delta Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",39,7,2.64,0,4.19,0,0.17,0,0
+2008,1,DL,Delta Air Lines Inc.,ELP,"El Paso, TX: El Paso International",49,9,3.4,0.22,2.98,0,2.4,1,0
+2008,1,DL,Delta Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",325,74,12.96,1.25,44.17,0,15.62,11,0
+2008,1,DL,Delta Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",884,185,48.34,2.02,87.84,0,46.8,16,0
+2008,1,DL,Delta Air Lines Inc.,GEG,"Spokane, WA: Spokane International",53,19,2.86,0.5,7.11,0,8.54,1,0
+2008,1,DL,Delta Air Lines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport Municipal",28,4,2.59,0,0.66,0,0.75,1,0
+2008,1,DL,Delta Air Lines Inc.,GSO,"Greensboro/High Point, NC: Greensboro High Point Winst",30,5,1.96,0,2.55,0,0.48,2,0
+2008,1,DL,Delta Air Lines Inc.,GSP,"Greenville/Spartanburg, SC: Greenville/Spartanburg Airport",31,2,1,0,0,0,1,1,0
+2008,1,DL,Delta Air Lines Inc.,HDN,"Steamboat Springs/Hayden, CO: Hayden",39,8,2.41,0,4.67,0,0.92,0,1
+2008,1,DL,Delta Air Lines Inc.,HNL,"Honolulu, HI: Honolulu International",155,48,16.63,2.32,20.68,0,8.37,0,0
+2008,1,DL,Delta Air Lines Inc.,HOU,"Houston, TX: William P Hobby",29,5,2.25,0.56,1.38,0,0.8,0,0
+2008,1,DL,Delta Air Lines Inc.,HSV,"Huntsville, AL: Huntsville International  Carl Jones",56,5,0.57,0.59,2.23,0,1.6,0,0
+2008,1,DL,Delta Air Lines Inc.,IAD,"Washington, DC: Dulles International",262,35,15.2,1.13,12.03,0,6.64,8,0
+2008,1,DL,Delta Air Lines Inc.,IAH,"Houston, TX: Houston Intercontinental",143,24,7.23,0.67,12.94,0,3.15,6,0
+2008,1,DL,Delta Air Lines Inc.,IND,"Indianapolis, IN: Indianapolis International",87,11,5.69,0.7,1.9,0,2.71,3,0
+2008,1,DL,Delta Air Lines Inc.,JAC,"Jackson, WY: Jacksons Hole",48,8,2.9,0.18,1.73,0,3.19,6,0
+2008,1,DL,Delta Air Lines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson - Evers International",58,14,7.24,1.14,3.3,0,2.31,2,0
+2008,1,DL,Delta Air Lines Inc.,JAX,"Jacksonville, FL: Jacksonville International",330,36,16.22,1.72,10.42,0,7.64,13,0
+2008,1,DL,Delta Air Lines Inc.,JFK,"New York, NY: Kennedy International",1276,210,41.85,8.39,110.71,0,49.05,17,4
+2008,1,DL,Delta Air Lines Inc.,LAS,"Las Vegas, NV: Mccarran International",653,187,59.17,3.48,95.57,0,28.77,7,1
+2008,1,DL,Delta Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1114,426,97.06,5.25,273.04,0,50.65,14,1
+2008,1,DL,Delta Air Lines Inc.,LEX,"Lexington, KY: Blue Grass",31,4,0.46,0.04,2.13,0,1.36,1,0
+2008,1,DL,Delta Air Lines Inc.,LGA,"New York, NY: La Guardia",1832,326,55.66,2.22,238.56,0,29.55,121,5
+2008,1,DL,Delta Air Lines Inc.,LIT,"Little Rock, AR: Adams Field",31,5,2.18,1.5,0.64,0,0.68,0,0
+2008,1,DL,Delta Air Lines Inc.,MCI,"Kansas City, MO: Kansas City International",177,31,9.61,2.24,13.24,0,5.9,7,0
+2008,1,DL,Delta Air Lines Inc.,MCO,"Orlando, FL: Orlando International",1090,179,49.35,3.31,80.34,0,46.01,15,1
+2008,1,DL,Delta Air Lines Inc.,MEM,"Memphis, TN: Memphis International",104,20,5.33,1.07,7.95,0,5.64,8,0
+2008,1,DL,Delta Air Lines Inc.,MIA,"Miami, FL: Miami International",355,58,26.18,0.11,20.46,0,11.25,10,0
+2008,1,DL,Delta Air Lines Inc.,MKE,"Milwaukee, WI: General Mitchell Field",31,12,3.97,0.15,5.72,0,2.17,2,1
+2008,1,DL,Delta Air Lines Inc.,MLB,"Melbourne, FL: Melbourne Regional",82,6,0.95,0.61,1.85,0,2.59,6,0
+2008,1,DL,Delta Air Lines Inc.,MOB,"Mobile, AL: Mobile Regional",29,8,4.31,0,0.79,0,2.91,1,0
+2008,1,DL,Delta Air Lines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",149,24,7.88,0.98,10.73,0,4.41,6,1
+2008,1,DL,Delta Air Lines Inc.,MSY,"New Orleans, LA: Louis Armstrong International",250,38,14.9,1.33,6.85,0,14.92,8,0
+2008,1,DL,Delta Air Lines Inc.,MTJ,"Montrose/Delta, CO: Montrose County",4,0,0,0,0,0,0,1,0
+2008,1,DL,Delta Air Lines Inc.,OAK,"Oakland, CA: Metropolitan Oakland International",31,14,1.42,0.14,11.25,0,1.2,0,0
+2008,1,DL,Delta Air Lines Inc.,OGG,"Kahului, HI: Kahului Airport",62,15,5.85,0.98,5.48,0,2.69,1,0
+2008,1,DL,Delta Air Lines Inc.,ONT,"Ontario/San Bernardino, CA: La/Ontario International",114,22,6.9,1.8,10.92,0,2.38,4,1
+2008,1,DL,Delta Air Lines Inc.,ORD,"Chicago, IL: O'Hare",333,117,15.46,3.2,80.77,0,17.56,15,2
+2008,1,DL,Delta Air Lines Inc.,ORF,"Norfolk, VA: Norfolk International",117,25,14.49,0,5.54,0,4.97,4,0
+2008,1,DL,Delta Air Lines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",472,78,25.77,3.19,31.59,0,17.45,11,1
+2008,1,DL,Delta Air Lines Inc.,PDX,"Portland, OR: Portland International",209,38,10.18,1.65,17.39,0,8.78,2,0
+2008,1,DL,Delta Air Lines Inc.,PHF,"Newport News/Williamsburg, VA: Patrick Henry International",27,1,0,0,0.65,0,0.35,0,0
+2008,1,DL,Delta Air Lines Inc.,PHL,"Philadelphia, PA: Philadelphia International",328,43,10.44,1.54,21.3,0,9.72,9,1
+2008,1,DL,Delta Air Lines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",425,103,22.16,3.49,66.15,0,11.2,6,1
+2008,1,DL,Delta Air Lines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",228,28,10.05,1.28,14.62,0,2.05,8,0
+2008,1,DL,Delta Air Lines Inc.,PNS,"Pensacola, FL: Pensacola Regional",145,22,11.56,0.23,2.41,0,7.8,7,0
+2008,1,DL,Delta Air Lines Inc.,RDU,"Raleigh/Durham, NC: Raleigh Durham",300,44,19.78,1.72,10.29,0,12.21,9,0
+2008,1,DL,Delta Air Lines Inc.,RIC,"Richmond, VA: Richmond International Aqirport",151,16,7.44,0.57,2.32,0,5.67,8,0
+2008,1,DL,Delta Air Lines Inc.,RNO,"Reno, NV: Reno International",64,18,4.04,1.6,11.51,0,0.85,2,1
+2008,1,DL,Delta Air Lines Inc.,ROC,"Rochester, NY: Rochester Monroe County",57,10,4.65,0,3.3,0,2.05,1,0
+2008,1,DL,Delta Air Lines Inc.,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",332,40,12.08,1.29,18.88,0,7.75,9,0
+2008,1,DL,Delta Air Lines Inc.,SAN,"San Diego, CA: San Diego International",359,120,30.42,3.71,76.76,0,9.11,6,3
+2008,1,DL,Delta Air Lines Inc.,SAT,"San Antonio, TX: San Antonio International",147,25,7.18,2.07,12.11,0,3.63,4,0
+2008,1,DL,Delta Air Lines Inc.,SAV,"Savannah, GA: Savannah / Hilton Head International",228,33,13.38,1.18,7.5,0,10.94,12,0
+2008,1,DL,Delta Air Lines Inc.,SDF,"Louisville, KY: Standiford Field",85,14,2.29,1.93,2.95,0,6.83,0,0
+2008,1,DL,Delta Air Lines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",397,83,30.37,3.07,27.98,0,21.58,3,0
+2008,1,DL,Delta Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",372,153,21.71,2.85,120.96,0,7.48,10,6
+2008,1,DL,Delta Air Lines Inc.,SJC,"San Jose, CA: San Jose International",90,38,13.05,0.5,14.75,0,9.7,1,0
+2008,1,DL,Delta Air Lines Inc.,SJU,"San Juan, PR: Luis Munoz Marin International",166,35,14.3,1.72,11.3,0,7.68,3,0
+2008,1,DL,Delta Air Lines Inc.,SLC,"Salt Lake City, UT: Salt Lake International",2552,631,132.62,14.66,265.47,1,217.24,38,15
+2008,1,DL,Delta Air Lines Inc.,SMF,"Sacramento, CA: Sacramento International",115,35,8.74,2.51,17.99,0,5.76,2,0
+2008,1,DL,Delta Air Lines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",215,52,16.42,2.98,25.53,0,7.07,6,1
+2008,1,DL,Delta Air Lines Inc.,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",147,17,7.48,0.05,4.24,0,5.23,5,0
+2008,1,DL,Delta Air Lines Inc.,STL,"St. Louis, MO: Lambert International",86,23,11.55,1.34,5.29,0,4.82,2,0
+2008,1,DL,Delta Air Lines Inc.,STT,"Charlotte Amalie, VI: Harry S. Truman",33,10,3.28,0,6.48,0,0.24,0,0
+2008,1,DL,Delta Air Lines Inc.,STX,"Christiansted, VI: Alexander Hamilton",5,0,0,0,0,0,0,0,0
+2008,1,DL,Delta Air Lines Inc.,TLH,"Tallahassee, FL: Tallahassee Municipal",31,5,2.51,0,1.1,0,1.39,1,0
+2008,1,DL,Delta Air Lines Inc.,TPA,"Tampa, FL: Tampa International",800,123,38.61,3.64,60.14,0,20.62,26,1
+2008,1,DL,Delta Air Lines Inc.,TUS,"Tucson, AZ: Tucson International",58,14,5.19,0,8.35,0,0.46,2,0
+2008,1,DL,Delta Air Lines Inc.,TYS,"Knoxville, TN: Mcghee Tyson",32,5,1.51,0,0.73,0,2.77,0,0
+2008,1,DL,Delta Air Lines Inc.,VPS,"Valparaiso, FL: Valparaiso - Fort Walton Beach",37,5,2.13,0,1.38,0,1.5,1,0
+2008,1,EV,Atlantic Southeast Airlines,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",49,11,6.98,0,3.11,0,0.91,2,0
+2008,1,EV,Atlantic Southeast Airlines,ABY,"Albany, GA: Albany Dougherty County",102,31,21.49,0.51,6.71,0,2.29,5,0
+2008,1,EV,Atlantic Southeast Airlines,ACY,"Atlantic City, NJ: Atlantic City International",31,5,3.26,0,0.1,0,1.64,2,0
+2008,1,EV,Atlantic Southeast Airlines,AEX,"Alexandria, LA: Alexandria International",85,20,13.94,0,5.65,0,0.4,4,0
+2008,1,EV,Atlantic Southeast Airlines,AGS,"Augusta, GA: Bush Field",203,54,39.96,2.82,7.17,0,4.05,12,0
+2008,1,EV,Atlantic Southeast Airlines,ALB,"Albany, NY: Albany County",108,31,19.19,2.64,6.12,0,3.04,2,1
+2008,1,EV,Atlantic Southeast Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson",11097,2571,1216.9,166.18,814.71,3.84,369.36,579,11
+2008,1,EV,Atlantic Southeast Airlines,ATW,"Appleton, WI: Outagamie County",79,19,11.51,1,4.68,0,1.81,7,3
+2008,1,EV,Atlantic Southeast Airlines,AUS,"Austin, TX: Austin - Bergstrom International",133,38,31.49,0.22,4.42,0,1.87,6,0
+2008,1,EV,Atlantic Southeast Airlines,AVL,"Asheville, NC: Asheville Regional",102,25,19.85,0.12,3.66,0,1.38,4,0
+2008,1,EV,Atlantic Southeast Airlines,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton",74,19,14.14,0.04,2.3,0,2.52,3,1
+2008,1,EV,Atlantic Southeast Airlines,BDL,"Hartford, CT: Bradley International",,,,,,,,,
+2008,1,EV,Atlantic Southeast Airlines,BGR,"Bangor, ME: Bangor International",26,8,5.21,1.44,0.79,0,0.56,0,1
+2008,1,EV,Atlantic Southeast Airlines,BHM,"Birmingham, AL: Birmingham Municipal",97,14,9.36,0.44,2.65,0,1.54,6,0
+2008,1,EV,Atlantic Southeast Airlines,BMI,"Bloomington, IL: Bloomington/Normal",118,17,8.82,2.2,2.55,0,3.44,6,2
+2008,1,EV,Atlantic Southeast Airlines,BNA,"Nashville, TN: Nashville Metropolitan",125,22,18.61,0,2.46,0,0.93,9,0
+2008,1,EV,Atlantic Southeast Airlines,BOS,"Boston, MA: Logan International",26,2,2,0,0,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,BQK,"Brunswick, GA: Glynco Jetport",61,12,9.52,1,1.2,0,0.27,2,0
+2008,1,EV,Atlantic Southeast Airlines,BTR,"Baton Rouge, LA: Ryan",212,67,46.56,1.38,12.18,0,6.87,4,1
+2008,1,EV,Atlantic Southeast Airlines,BTV,"Burlington, VT: Burlington International",27,4,2.6,0,0.55,0,0.85,1,0
+2008,1,EV,Atlantic Southeast Airlines,BUF,"Buffalo, NY: Buffalo Niagara International",91,30,22.76,2.1,3.33,0,1.81,4,0
+2008,1,EV,Atlantic Southeast Airlines,CAE,"Columbia, SC: Columbia Metropolitan",323,85,40.43,14.6,22.75,0,7.23,13,0
+2008,1,EV,Atlantic Southeast Airlines,CAK,"Akron, OH: Akron-Canton Regional",192,31,21.46,0,4.03,0.13,5.38,11,0
+2008,1,EV,Atlantic Southeast Airlines,CHA,"Chattanooga, TN: Lovell Field",169,40,28.34,2.04,8.66,0,0.96,7,0
+2008,1,EV,Atlantic Southeast Airlines,CHO,"Charlottesville, VA: Charlottesville Albemarle",73,14,10.59,1.18,2.23,0,0,5,0
+2008,1,EV,Atlantic Southeast Airlines,CHS,"Charleston, SC: Charleston International",92,17,11.88,0,2.77,0,2.36,5,0
+2008,1,EV,Atlantic Southeast Airlines,CID,"Cedar Rapids/Iowa City, IA: Cedar Rapids Municipal",32,6,5.35,0,0.65,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,CLE,"Cleveland, OH: Hopkins International",151,47,28.32,3.66,11.07,0,3.95,5,0
+2008,1,EV,Atlantic Southeast Airlines,CLT,"Charlotte, NC: Charlotte Douglas International",33,11,7.71,1.25,0.71,0,1.33,2,0
+2008,1,EV,Atlantic Southeast Airlines,CMH,"Columbus, OH: Columbus International",23,4,2,0,1,0,1,1,0
+2008,1,EV,Atlantic Southeast Airlines,CRP,"Corpus Christi, TX: Corpus Christi International",5,1,1,0,0,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,CRW,"Charleston/Dunbar, WV: Kanawha",112,19,15.62,0,1.7,0,1.68,6,0
+2008,1,EV,Atlantic Southeast Airlines,CSG,"Columbus, GA: Columbus Metropolitan",116,26,16.04,1.5,5.48,0,2.98,7,0
+2008,1,EV,Atlantic Southeast Airlines,CVG,"Cincinnati, OH: Cincinnati/ Northern Kentucky International",407,93,55.03,7.35,20.13,0,10.49,9,0
+2008,1,EV,Atlantic Southeast Airlines,DAB,"Daytona Beach, FL: Daytona Beach Regional",27,9,7.55,0,0.06,0,1.39,1,0
+2008,1,EV,Atlantic Southeast Airlines,DAY,"Dayton, OH: James M Cox/Dayton International",88,20,14.71,1.02,2.94,0,1.33,4,0
+2008,1,EV,Atlantic Southeast Airlines,DCA,"Washington, DC: Ronald Reagan Washington National",85,12,2.92,2,3.08,0,4,4,1
+2008,1,EV,Atlantic Southeast Airlines,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",2,0,0,0,0,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,DHN,"Dothan, AL: Dothan Regional",117,28,20.17,0,6.26,1,0.57,4,0
+2008,1,EV,Atlantic Southeast Airlines,DSM,"Des Moines, IA: Des Moines Muncipal",87,31,25.01,1.27,2.34,0,2.38,4,1
+2008,1,EV,Atlantic Southeast Airlines,DTW,"Detroit, MI: Detroit Metro Wayne County",86,18,14.73,0.51,0.38,0,2.38,5,0
+2008,1,EV,Atlantic Southeast Airlines,EVV,"Evansville, IN: Evansville Dress Regional",120,24,18.59,0.5,3.34,0,1.58,9,0
+2008,1,EV,Atlantic Southeast Airlines,EWN,"New Bern/Morehead/Beaufort, NC: Craven County Regional",62,10,6.83,0.79,2.38,0,0,2,1
+2008,1,EV,Atlantic Southeast Airlines,EWR,"Newark, NJ: Newark Liberty International",59,33,13.01,0.87,17.82,0,1.31,1,0
+2008,1,EV,Atlantic Southeast Airlines,EYW,"Key West, FL: Key West International",92,32,22,1.45,4.09,0,4.45,3,1
+2008,1,EV,Atlantic Southeast Airlines,FAY,"Fayetteville, NC: Fayetteville Municipal",172,45,30.31,0.94,7.34,0,6.41,7,0
+2008,1,EV,Atlantic Southeast Airlines,FLO,"Florence, SC: Florence City County",55,11,6.98,1.86,0.91,0,1.25,4,0
+2008,1,EV,Atlantic Southeast Airlines,FNT,"Flint, MI: Bishop",152,35,19.92,2.24,9.1,0,3.74,9,0
+2008,1,EV,Atlantic Southeast Airlines,FSD,"Sioux Falls, SD: Regional Joe Foss Field",25,5,4,0,1,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,FSM,"Fort Smith, AR: Fort Smith Regional",52,16,12.38,0,0.69,0,2.93,3,0
+2008,1,EV,Atlantic Southeast Airlines,FWA,"Fort Wayne, IN: Fort Wayne Muni/Baer Field",56,16,13.3,0.98,1.31,0,0.4,4,0
+2008,1,EV,Atlantic Southeast Airlines,GNV,"Gainesville, FL: Gainesville Regional",171,39,26.26,1.64,6.9,0,4.21,8,0
+2008,1,EV,Atlantic Southeast Airlines,GPT,"Gulfport/Biloxi, MS: Gulfport Municipal",206,51,33.35,4.78,7.41,0,5.46,8,0
+2008,1,EV,Atlantic Southeast Airlines,GRB,"Green Bay/Clintonville, WI: Austin/Straubel",47,15,5.87,1.91,5.63,0,1.59,2,0
+2008,1,EV,Atlantic Southeast Airlines,GRK,"Killeen, TX: Robert Gray Army Air Field",61,15,9.17,0,4.83,0,1,3,2
+2008,1,EV,Atlantic Southeast Airlines,GRR,"Grand Rapids, MI: Gerald R. Ford International",111,24,15.1,1.63,4.97,0,2.31,3,0
+2008,1,EV,Atlantic Southeast Airlines,GSO,"Greensboro/High Point, NC: Greensboro High Point Winst",116,37,29.54,0.21,4.82,0,2.43,7,0
+2008,1,EV,Atlantic Southeast Airlines,GSP,"Greenville/Spartanburg, SC: Greenville/Spartanburg Airport",60,17,10.16,0,4.1,0.97,1.77,5,0
+2008,1,EV,Atlantic Southeast Airlines,GTR,"Columbus, MS: Golden Triangle Regional",81,16,9.93,1.4,2.64,0,2.03,7,0
+2008,1,EV,Atlantic Southeast Airlines,HHH,"Hilton Head, SC: Hilton Head Airport",67,14,9.52,0.53,3.95,0,0,6,4
+2008,1,EV,Atlantic Southeast Airlines,HOU,"Houston, TX: William P Hobby",62,20,14.82,1.28,2.19,0,1.71,4,0
+2008,1,EV,Atlantic Southeast Airlines,HPN,"White Plains, NY: Westchester County",94,20,11.06,1.29,6.38,0,1.27,7,2
+2008,1,EV,Atlantic Southeast Airlines,HSV,"Huntsville, AL: Huntsville International  Carl Jones",183,41,23.85,3.08,10.91,0,3.16,5,0
+2008,1,EV,Atlantic Southeast Airlines,IAD,"Washington, DC: Dulles International",11,3,0.93,0,2.07,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,IAH,"Houston, TX: Houston Intercontinental",5,0,0,0,0,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,ICT,"Wichita, KS: Mid-Continent",169,46,30.27,2.12,8.89,0,4.72,7,0
+2008,1,EV,Atlantic Southeast Airlines,ILM,"Wilmington, NC: New Hanover County",142,38,19.69,1.04,13.38,0,3.89,5,1
+2008,1,EV,Atlantic Southeast Airlines,IND,"Indianapolis, IN: Indianapolis International",82,27,18.18,1.82,6,0,1.01,3,0
+2008,1,EV,Atlantic Southeast Airlines,ISP,"Islip, NY: Long Island-Macarthur",56,18,11.95,2.75,1.2,0,2.1,3,0
+2008,1,EV,Atlantic Southeast Airlines,JAN,"Jackson/Vicksburg, MS: Jackson - Evers International",225,59,33.96,5.04,11.52,0,8.49,9,1
+2008,1,EV,Atlantic Southeast Airlines,LAN,"Lansing, MI: Capital City",1,0,0,0,0,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,LEX,"Lexington, KY: Blue Grass",60,10,8.8,0,0.2,0,1,0,0
+2008,1,EV,Atlantic Southeast Airlines,LFT,"Lafayette, LA: Lafayette Regional",84,25,15.35,1.93,6.94,0,0.78,3,0
+2008,1,EV,Atlantic Southeast Airlines,LGA,"New York, NY: La Guardia",53,21,3.81,2,14.19,0,1,4,0
+2008,1,EV,Atlantic Southeast Airlines,LIT,"Little Rock, AR: Adams Field",201,57,37.16,3.98,9.24,0,6.62,5,0
+2008,1,EV,Atlantic Southeast Airlines,LYH,"Lynchburg, VA: Lynchburg Mun/Preston Glenn",56,14,9.19,1.46,2.59,0,0.76,4,1
+2008,1,EV,Atlantic Southeast Airlines,MCI,"Kansas City, MO: Kansas City International",39,17,10.2,1.61,4,0,1.19,2,0
+2008,1,EV,Atlantic Southeast Airlines,MCN,"Macon, GA: Lewis B Wilson International",70,16,9.98,1.19,2.02,0,2.81,5,0
+2008,1,EV,Atlantic Southeast Airlines,MDT,"Harrisburg, PA: Harrisburg International  Olmsted Field",174,48,29.63,1.76,12.43,0,4.17,6,0
+2008,1,EV,Atlantic Southeast Airlines,MEI,"Meridian, MS: Key Field",53,9,5.28,0,1.12,0,2.61,3,0
+2008,1,EV,Atlantic Southeast Airlines,MEM,"Memphis, TN: Memphis International",89,23,13.89,1.32,7.29,0,0.49,4,0
+2008,1,EV,Atlantic Southeast Airlines,MFE,"Mission/Mcallen/Edinburg, TX: Miller International",9,3,2,0,0,0,1,0,0
+2008,1,EV,Atlantic Southeast Airlines,MGM,"Montgomery, AL: Dannelly Field",200,32,21.11,1.31,6.17,0,3.4,3,0
+2008,1,EV,Atlantic Southeast Airlines,MHT,"Manchester, NH: Manchester-Boston Regional",60,18,11.48,0,3.51,0,3.01,4,0
+2008,1,EV,Atlantic Southeast Airlines,MKE,"Milwaukee, WI: General Mitchell Field",108,46,30.12,1.55,12.71,0,1.61,4,0
+2008,1,EV,Atlantic Southeast Airlines,MLB,"Melbourne, FL: Melbourne Regional",91,19,14.6,0,4.4,0,0,7,0
+2008,1,EV,Atlantic Southeast Airlines,MLI,"Moline, IL: Quad/City",122,33,19.99,2.69,5.04,0,5.29,8,0
+2008,1,EV,Atlantic Southeast Airlines,MLU,"Monroe, LA: Huenefeld",88,17,13.02,0,2.24,0,1.75,6,0
+2008,1,EV,Atlantic Southeast Airlines,MOB,"Mobile, AL: Mobile Regional",171,36,26.85,1.65,7,0,0.5,5,1
+2008,1,EV,Atlantic Southeast Airlines,MSN,"Madison, WI: Truax Field",32,4,2.62,0,1.03,0,0.35,3,0
+2008,1,EV,Atlantic Southeast Airlines,MSP,"Minneapolis, MN: Minneapolis-St Paul International",40,10,6.28,0,1.92,0,1.8,2,0
+2008,1,EV,Atlantic Southeast Airlines,MSY,"New Orleans, LA: Louis Armstrong International",45,6,5,0,1,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,MYR,"Myrtle Beach, SC: Myrtle Beach International Airport",88,14,12.55,0,1.12,0,0.33,4,0
+2008,1,EV,Atlantic Southeast Airlines,OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",82,23,13.21,0.69,4.6,0,4.51,3,0
+2008,1,EV,Atlantic Southeast Airlines,OKC,"Oklahoma City, OK: Will Rogers World",169,45,31.7,0.8,8.96,0,3.54,6,0
+2008,1,EV,Atlantic Southeast Airlines,OMA,"Omaha, NE: Eppley Airfield",155,35,28.47,0,3.5,0,3.03,8,0
+2008,1,EV,Atlantic Southeast Airlines,ORF,"Norfolk, VA: Norfolk International",81,17,13.14,0,2.64,0,1.22,4,0
+2008,1,EV,Atlantic Southeast Airlines,PFN,"Panama City, FL: Bay County",180,39,27.45,0.56,9.04,0,1.95,9,0
+2008,1,EV,Atlantic Southeast Airlines,PHF,"Newport News/Williamsburg, VA: Patrick Henry International",154,36,25.65,3.44,5.74,0,1.17,8,0
+2008,1,EV,Atlantic Southeast Airlines,PHL,"Philadelphia, PA: Philadelphia International",25,4,3,0,1,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,PIA,"Peoria, IL: Greater Peoria",86,34,21.91,0.54,8.85,0,2.71,4,0
+2008,1,EV,Atlantic Southeast Airlines,PIT,"Pittsburgh, PA: Pittsburgh International",71,23,15.13,1.98,1.87,0,4.02,4,0
+2008,1,EV,Atlantic Southeast Airlines,PNS,"Pensacola, FL: Pensacola Regional",71,19,11.4,1.31,4.34,0,1.95,3,0
+2008,1,EV,Atlantic Southeast Airlines,PVD,"Providence, RI: Theodore Francis Green",120,32,23.74,1.45,4.05,0.51,2.25,5,0
+2008,1,EV,Atlantic Southeast Airlines,PWM,"Portland, ME: Portland International  Jetport",82,25,15.47,1.54,5.09,0,2.9,8,0
+2008,1,EV,Atlantic Southeast Airlines,RDU,"Raleigh/Durham, NC: Raleigh Durham",8,5,3.61,0.45,0.49,0,0.45,0,0
+2008,1,EV,Atlantic Southeast Airlines,RIC,"Richmond, VA: Richmond International Aqirport",81,14,10.2,0.6,2.65,0,0.55,3,0
+2008,1,EV,Atlantic Southeast Airlines,ROA,"Roanoke, VA: Roanoke Municipal",120,20,13.62,1.23,2.38,0,2.76,5,1
+2008,1,EV,Atlantic Southeast Airlines,ROC,"Rochester, NY: Rochester Monroe County",123,29,18.76,0.32,9.09,0,0.83,4,0
+2008,1,EV,Atlantic Southeast Airlines,SAT,"San Antonio, TX: San Antonio International",60,17,13.15,1.06,2.79,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,SAV,"Savannah, GA: Savannah / Hilton Head International",8,5,3.16,0,0,0,1.84,0,0
+2008,1,EV,Atlantic Southeast Airlines,SBN,"South Bend, IN: Michiana Regional",88,23,17.66,1.72,2.84,0,0.79,6,1
+2008,1,EV,Atlantic Southeast Airlines,SCE,"State College, PA: University Park",31,7,5,0.43,0,0,1.57,2,1
+2008,1,EV,Atlantic Southeast Airlines,SDF,"Louisville, KY: Standiford Field",96,32,24.48,0,5.67,0,1.85,4,0
+2008,1,EV,Atlantic Southeast Airlines,SGF,"Springfield, MO: Springfield Regional",52,13,8.22,0.78,2.22,0,1.78,2,0
+2008,1,EV,Atlantic Southeast Airlines,SHV,"Shreveport, LA: Shreveport Regional",145,39,20.2,3.69,9.37,0,5.74,4,0
+2008,1,EV,Atlantic Southeast Airlines,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",34,2,1.64,0,0.36,0,0,3,0
+2008,1,EV,Atlantic Southeast Airlines,STL,"St. Louis, MO: Lambert International",77,16,12.21,0,2.6,0,1.19,3,0
+2008,1,EV,Atlantic Southeast Airlines,SWF,"Newburgh/Poughkeepsie, NY: Stewart",117,37,26.04,0,8.26,0,2.7,5,0
+2008,1,EV,Atlantic Southeast Airlines,SYR,"Syracuse, NY: Syracuse Hancock International",90,17,12.93,0.46,2.55,1,0.06,4,0
+2008,1,EV,Atlantic Southeast Airlines,TLH,"Tallahassee, FL: Tallahassee Municipal",89,22,14.15,2,4.22,0,1.62,4,0
+2008,1,EV,Atlantic Southeast Airlines,TOL,"Toledo, OH: Toledo Express",32,4,2.76,1,0.24,0,0,2,0
+2008,1,EV,Atlantic Southeast Airlines,TRI,"Bristol/Kngsprt/Jhnsn Cty, TN: Tri City",146,40,28.16,1.07,7.35,0,3.43,9,0
+2008,1,EV,Atlantic Southeast Airlines,TUL,"Tulsa, OK: Tulsa International",176,54,36.34,1.35,10.52,0,5.79,7,0
+2008,1,EV,Atlantic Southeast Airlines,TUP,"Tupelo, MS: C D Lemons Municipal",9,0,0,0,0,0,0,0,0
+2008,1,EV,Atlantic Southeast Airlines,TYS,"Knoxville, TN: Mcghee Tyson",107,17,11.26,0.86,2.88,0,2,7,0
+2008,1,EV,Atlantic Southeast Airlines,VLD,"Valdosta, GA: Valdosta Regional",82,17,10.38,1,3.64,0.19,1.79,3,0
+2008,1,EV,Atlantic Southeast Airlines,VPS,"Valparaiso, FL: Valparaiso - Fort Walton Beach",197,43,31.33,2.4,4.85,0,4.43,6,2
+2008,1,EV,Atlantic Southeast Airlines,XNA,"Fayetteville, AR: Northwest Arkansas Regional",77,23,13.98,0.32,3.69,0,5.01,4,1
+2008,1,F9,Frontier Airlines Inc.,ABQ,"Albuquerque, NM: Albuquerque International",4,4,1.32,0,1.01,0,1.67,0,0
+2008,1,F9,Frontier Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",123,29,16.78,0,11.26,0,0.97,1,0
+2008,1,F9,Frontier Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",89,18,8.03,0,6.86,0,3.11,0,0
+2008,1,F9,Frontier Airlines Inc.,BDL,"Hartford, CT: Bradley International",31,5,2.81,0,2.09,0,0.09,0,0
+2008,1,F9,Frontier Airlines Inc.,BNA,"Nashville, TN: Nashville Metropolitan",91,20,8.63,0,8.52,0,2.85,0,0
+2008,1,F9,Frontier Airlines Inc.,BOI,"Boise, ID: Boise Air Terminal",3,2,0.39,0,1.4,0,0.21,0,0
+2008,1,F9,Frontier Airlines Inc.,CAK,"Akron, OH: Akron-Canton Regional",62,16,7.15,0,4.51,0,4.34,1,0
+2008,1,F9,Frontier Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",62,10,2.72,0,4.55,0,2.73,1,0
+2008,1,F9,Frontier Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",93,20,9.68,0.4,7.74,0,2.17,0,0
+2008,1,F9,Frontier Airlines Inc.,DEN,"Denver, CO: Denver International",3826,788,133.98,7.84,389.47,0,256.71,5,0
+2008,1,F9,Frontier Airlines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",169,33,15.14,0,14.26,0,3.6,0,0
+2008,1,F9,Frontier Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",91,22,10.58,0.67,7.76,0,2.99,1,0
+2008,1,F9,Frontier Airlines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",55,9,4.35,0,3.65,0,1,0,0
+2008,1,F9,Frontier Airlines Inc.,GEG,"Spokane, WA: Spokane International",9,5,2.61,0,2.39,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,IAH,"Houston, TX: Houston Intercontinental",47,13,7.04,0.56,4.58,0,0.81,0,0
+2008,1,F9,Frontier Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",122,18,3.09,0,13.3,0,1.61,1,0
+2008,1,F9,Frontier Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",23,4,3.08,0,0.93,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,LAS,"Las Vegas, NV: Mccarran International",211,48,19.04,0.15,23.97,0,4.84,0,0
+2008,1,F9,Frontier Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",187,72,25.98,0.35,39.39,0,6.27,0,0
+2008,1,F9,Frontier Airlines Inc.,LGA,"New York, NY: La Guardia",88,26,17,0,8.61,0,0.39,0,0
+2008,1,F9,Frontier Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",154,33,12.29,0,13.88,0,6.83,0,0
+2008,1,F9,Frontier Airlines Inc.,MCO,"Orlando, FL: Orlando International",100,27,14.9,0,9.76,0,2.34,0,0
+2008,1,F9,Frontier Airlines Inc.,MDW,"Chicago, IL: Chicago Midway",150,32,16.18,0,12.31,0,3.51,2,1
+2008,1,F9,Frontier Airlines Inc.,MEM,"Memphis, TN: Memphis International",37,12,6.4,0,4.6,0,1.01,0,0
+2008,1,F9,Frontier Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell Field",87,21,8.32,0.9,10.38,0,1.39,0,0
+2008,1,F9,Frontier Airlines Inc.,MSP,"Minneapolis, MN: Minneapolis-St Paul International",92,18,8.18,0,7.32,0,2.5,0,0
+2008,1,F9,Frontier Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",47,8,2.35,0,3.14,0,2.51,0,0
+2008,1,F9,Frontier Airlines Inc.,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",23,5,3.8,0,1.2,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,PDX,"Portland, OR: Portland International",104,35,19.09,0.85,11.52,0,3.54,0,0
+2008,1,F9,Frontier Airlines Inc.,PHL,"Philadelphia, PA: Philadelphia International",62,13,8.28,0,4.72,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",151,49,18.88,0.56,24.17,0,5.39,0,0
+2008,1,F9,Frontier Airlines Inc.,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",37,4,2.17,0,1.83,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,SAN,"San Diego, CA: San Diego International",196,54,17.41,0.23,28.86,0,7.5,2,1
+2008,1,F9,Frontier Airlines Inc.,SAT,"San Antonio, TX: San Antonio International",89,14,4.31,0,7.42,0,2.27,0,0
+2008,1,F9,Frontier Airlines Inc.,SDF,"Louisville, KY: Standiford Field",53,7,3.06,0.63,3.31,0,0,0,0
+2008,1,F9,Frontier Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",104,28,15.44,0,10.61,0,1.96,0,0
+2008,1,F9,Frontier Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",130,63,39.46,0,21.25,0,2.3,0,0
+2008,1,F9,Frontier Airlines Inc.,SJC,"San Jose, CA: San Jose International",89,35,13.73,0.07,19.15,0,2.06,0,0
+2008,1,F9,Frontier Airlines Inc.,SLC,"Salt Lake City, UT: Salt Lake International",197,69,34.25,0.44,26.61,0,7.7,0,1
+2008,1,F9,Frontier Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",92,27,10.33,0,14.48,0,2.19,0,0
+2008,1,F9,Frontier Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",124,30,8.91,0.35,16.89,0,3.85,0,0
+2008,1,F9,Frontier Airlines Inc.,STL,"St. Louis, MO: Lambert International",93,27,10.83,0.24,12.8,0,3.12,0,0
+2008,1,F9,Frontier Airlines Inc.,TPA,"Tampa, FL: Tampa International",37,6,4.53,0,0.91,0,0.56,0,1
+2008,1,F9,Frontier Airlines Inc.,TUS,"Tucson, AZ: Tucson International",58,15,4.64,0,8.84,0,1.52,0,0
+2008,1,FL,AirTran Airways Corporation,ATL,"Atlanta, GA: Hartsfield-Jackson",6823,1297,159.78,5.75,659.79,0,471.68,103,14
+2008,1,FL,AirTran Airways Corporation,BMI,"Bloomington, IL: Bloomington/Normal",121,26,9.03,0,8.96,0,8.01,1,0
+2008,1,FL,AirTran Airways Corporation,BOS,"Boston, MA: Logan International",535,86,4.45,1,44.36,0,36.19,8,0
+2008,1,FL,AirTran Airways Corporation,BUF,"Buffalo, NY: Buffalo Niagara International",131,25,10.18,0.53,3.28,0,11.02,2,0
+2008,1,FL,AirTran Airways Corporation,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1139,187,31.88,3,76.49,0,75.63,9,1
+2008,1,FL,AirTran Airways Corporation,CAK,"Akron, OH: Akron-Canton Regional",313,59,9.33,1,17.61,0,31.05,5,0
+2008,1,FL,AirTran Airways Corporation,CHS,"Charleston, SC: Charleston International",93,11,3,0,2.64,0,5.36,2,0
+2008,1,FL,AirTran Airways Corporation,CLT,"Charlotte, NC: Charlotte Douglas International",250,54,9.6,0.91,26.57,0,16.93,2,1
+2008,1,FL,AirTran Airways Corporation,DAB,"Daytona Beach, FL: Daytona Beach Regional",56,10,1.05,1,2.09,0,5.86,0,0
+2008,1,FL,AirTran Airways Corporation,DAY,"Dayton, OH: James M Cox/Dayton International",256,36,9.89,0.8,10.61,0,14.71,3,1
+2008,1,FL,AirTran Airways Corporation,DCA,"Washington, DC: Ronald Reagan Washington National",218,30,10.34,1,6.24,0,12.43,2,0
+2008,1,FL,AirTran Airways Corporation,DEN,"Denver, CO: Denver International",95,19,2.92,1.48,6.27,0,8.33,0,0
+2008,1,FL,AirTran Airways Corporation,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",214,67,16.57,0.91,26.04,0,23.48,1,2
+2008,1,FL,AirTran Airways Corporation,DTW,"Detroit, MI: Detroit Metro Wayne County",169,25,11.4,1.35,3.87,0,8.38,3,0
+2008,1,FL,AirTran Airways Corporation,EWR,"Newark, NJ: Newark Liberty International",126,35,1.92,0.53,26.62,0,5.93,1,0
+2008,1,FL,AirTran Airways Corporation,FLL,"Fort Lauderdale, FL: Fort Lauderdale International",566,154,41.17,1.41,60.09,0,51.33,0,0
+2008,1,FL,AirTran Airways Corporation,FNT,"Flint, MI: Bishop",219,39,11.1,0,13.55,0,14.34,2,0
+2008,1,FL,AirTran Airways Corporation,GPT,"Gulfport/Biloxi, MS: Gulfport Municipal",124,24,5.93,0.22,6.46,0,11.4,0,0
+2008,1,FL,AirTran Airways Corporation,HOU,"Houston, TX: William P Hobby",124,34,6.58,0,15.75,0,11.66,0,1
+2008,1,FL,AirTran Airways Corporation,HPN,"White Plains, NY: Westchester County",239,31,4.33,0,12.39,0,14.28,4,2
+2008,1,FL,AirTran Airways Corporation,IAD,"Washington, DC: Dulles International",167,25,9.38,0,6.87,0,8.74,3,0
+2008,1,FL,AirTran Airways Corporation,ICT,"Wichita, KS: Mid-Continent",93,25,4.38,1,9.31,0,10.31,1,0
+2008,1,FL,AirTran Airways Corporation,IND,"Indianapolis, IN: Indianapolis International",402,80,14.2,1.53,25.07,0,39.2,3,0
+2008,1,FL,AirTran Airways Corporation,JAX,"Jacksonville, FL: Jacksonville International",158,31,8.02,0.45,6.53,0,16.01,4,1
+2008,1,FL,AirTran Airways Corporation,LAS,"Las Vegas, NV: Mccarran International",255,62,13.97,1,31.08,0,15.96,0,0
+2008,1,FL,AirTran Airways Corporation,LAX,"Los Angeles, CA: Los Angeles International",123,51,14.29,0,29.54,0,7.17,3,1
+2008,1,FL,AirTran Airways Corporation,LGA,"New York, NY: La Guardia",492,167,18.96,1.77,105.5,0,40.76,19,1
+2008,1,FL,AirTran Airways Corporation,MCI,"Kansas City, MO: Kansas City International",124,36,8.57,0,20.03,0,7.39,1,0
+2008,1,FL,AirTran Airways Corporation,MCO,"Orlando, FL: Orlando International",1538,335,54.13,4.42,189.5,0,86.94,6,4
+2008,1,FL,AirTran Airways Corporation,MDW,"Chicago, IL: Chicago Midway",491,141,26.19,1.27,69.6,0,43.94,7,7
+2008,1,FL,AirTran Airways Corporation,MEM,"Memphis, TN: Memphis International",176,36,6.18,0.25,17.55,0,12.01,2,1
+2008,1,FL,AirTran Airways Corporation,MIA,"Miami, FL: Miami International",173,22,4.01,0,8.67,0,9.32,0,0
+2008,1,FL,AirTran Airways Corporation,MKE,"Milwaukee, WI: General Mitchell Field",306,63,14.86,0.73,25.29,0,22.11,1,1
+2008,1,FL,AirTran Airways Corporation,MLI,"Moline, IL: Quad/City",115,19,4.96,0,3.11,0,10.93,3,0
+2008,1,FL,AirTran Airways Corporation,MSP,"Minneapolis, MN: Minneapolis-St Paul International",226,61,8.46,0.76,24.03,0,27.74,1,1
+2008,1,FL,AirTran Airways Corporation,MSY,"New Orleans, LA: Louis Armstrong International",155,37,15.99,0.48,10.07,0,10.47,4,0
+2008,1,FL,AirTran Airways Corporation,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",223,43,8.82,0.72,23.91,0,9.54,2,0
+2008,1,FL,AirTran Airways Corporation,PHF,"Newport News/Williamsburg, VA: Patrick Henry International",302,52,7.53,0,18.6,0,25.87,4,0
+2008,1,FL,AirTran Airways Corporation,PHL,"Philadelphia, PA: Philadelphia International",362,95,15.63,0.29,40.79,0,38.29,2,0
+2008,1,FL,AirTran Airways Corporation,PHX,"Phoenix, AZ: Sky Harbor International",132,44,4.31,0,21.96,0,17.73,2,1
+2008,1,FL,AirTran Airways Corporation,PIT,"Pittsburgh, PA: Pittsburgh International",168,24,4.67,0,3.01,0,16.32,1,0
+2008,1,FL,AirTran Airways Corporation,PNS,"Pensacola, FL: Pensacola Regional",131,28,10.12,0,5.76,0,12.11,3,0
+2008,1,FL,AirTran Airways Corporation,PWM,"Portland, ME: Portland International  Jetport",93,7,2,0,0.28,0,4.72,0,0
+2008,1,FL,AirTran Airways Corporation,RDU,"Raleigh/Durham, NC: Raleigh Durham",154,19,6.36,0.7,3.45,0,8.48,3,0
+2008,1,FL,AirTran Airways Corporation,RIC,"Richmond, VA: Richmond International Aqirport",150,19,6.43,0,2.88,0,9.68,3,0
+2008,1,FL,AirTran Airways Corporation,ROC,"Rochester, NY: Rochester Monroe County",224,35,7.65,1.24,13.04,0,13.06,1,0
+2008,1,FL,AirTran Airways Corporation,RSW,"Ft. Myers, FL: Southwest Florida International Airport ",444,91,16.98,0.1,44.67,0,29.24,2,0
+2008,1,FL,AirTran Airways Corporation,SAN,"San Diego, CA: San Diego International",64,23,4.44,0,14.98,0,3.57,1,1
+2008,1,FL,AirTran Airways Corporation,SAV,"Savannah, GA: Savannah / Hilton Head International",62,3,0.85,1.16,0.98,0,0,1,0
+2008,1,FL,AirTran Airways Corporation,SFO,"San Francisco, CA: San Francisco International",38,21,0.97,0,14.92,0,5.11,0,0
+2008,1,FL,AirTran Airways Corporation,SRQ,"Sarasota/Bradenton, FL: Sarasota Bradenton",239,59,13.36,0,21.58,0,24.07,0,0
+2008,1,FL,AirTran Airways Corporation,STL,"St. Louis, MO: Lambert International",137,32,8.63,0,12.38,0,10.99,3,0
+2008,1,FL,AirTran Airways Corporation,SWF,"Newburgh/Poughkeepsie, NY: Stewart",135,24,4.74,0,5.03,0,14.22,0,2
+2008,1,FL,AirTran Airways Corporation,TPA,"Tampa, FL: Tampa International",656,161,33.8,1.72,74.5,0,50.98,4,4
+2008,1,HA,Hawaiian Airlines Inc.,HNL,"Honolulu, HI: Honolulu International",2139,94,58.26,2.78,0,0.93,32.03,19,0
+2008,1,HA,Hawaiian Airlines Inc.,ITO,"Hilo, HI: General Lyman",337,11,5.65,0,0,0,5.35,3,0
+2008,1,HA,Hawaiian Airlines Inc.,KOA,"Kona, HI: Keahole",430,8,4.99,0,0,0,3.01,1,0
+2008,1,HA,Hawaiian Airlines Inc.,LAS,"Las Vegas, NV: Mccarran International",62,14,8.79,0,0,0,5.21,0,0
+2008,1,HA,Hawaiian Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",79,8,4.52,0,0,0.14,3.33,0,0
+2008,1,HA,Hawaiian Airlines Inc.,LIH,"Lihue, HI: Lihue Airport",504,7,2.76,0,0,0,4.24,4,0
+2008,1,HA,Hawaiian Airlines Inc.,OGG,"Kahului, HI: Kahului Airport",787,18,13.52,0,0,0,4.48,8,0
+2008,1,HA,Hawaiian Airlines Inc.,PDX,"Portland, OR: Portland International",62,13,12.7,0,0,0,0.3,0,0
+2008,1,HA,Hawaiian Airlines Inc.,PHX,"Phoenix, AZ: Sky Harbor International",31,4,2,0,0,0,2,0,0
+2008,1,HA,Hawaiian Airlines Inc.,SAN,"San Diego, CA: San Diego International",62,5,4.79,0,0,0,0.21,0,2
+2008,1,HA,Hawaiian Airlines Inc.,SEA,"Seattle, WA: Seattle/Tacoma International",93,28,25.63,0,0,0,2.37,0,0
+2008,1,HA,Hawaiian Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",31,11,10.55,0,0,0,0.45,1,0
+2008,1,HA,Hawaiian Airlines Inc.,SJC,"San Jose, CA: San Jose International",31,4,3.55,0,0,0,0.45,0,0
+2008,1,HA,Hawaiian Airlines Inc.,SMF,"Sacramento, CA: Sacramento International",31,11,9.98,0,0,0,1.02,0,0
+2008,1,MQ,American Eagle Airlines Inc.,ABI,"Abilene, TX: Abilene Municipal",240,57,21.01,5.38,5.54,0,25.07,7,0
+2008,1,MQ,American Eagle Airlines Inc.,ACT,"Waco, TX: Waco Municipal",209,59,29.8,2.52,9.69,0,16.99,10,0
+2008,1,MQ,American Eagle Airlines Inc.,AEX,"Alexandria, LA: Alexandria International",93,23,10.99,1.27,5.13,0,5.61,5,0
+2008,1,MQ,American Eagle Airlines Inc.,ALB,"Albany, NY: Albany County",93,36,11.58,1.96,10.06,0,12.39,6,1
+2008,1,MQ,American Eagle Airlines Inc.,AMA,"Amarillo, TX: Amarillo Airport",218,50,17.8,4.27,4.69,0,23.24,7,0
+2008,1,MQ,American Eagle Airlines Inc.,ATL,"Atlanta, GA: Hartsfield-Jackson",62,22,6.06,0.68,10.05,0,5.2,14,0
+2008,1,MQ,American Eagle Airlines Inc.,AUS,"Austin, TX: Austin - Bergstrom International",230,28,4.74,0.94,8.66,0,13.66,12,1
+2008,1,MQ,American Eagle Airlines Inc.,AZO,"Kalamazoo, MI: Kalamazoo Municipal",124,40,12.46,3.14,9.34,0,15.06,22,0
+2008,1,MQ,American Eagle Airlines Inc.,BDL,"Hartford, CT: Bradley International",248,89,26.01,7.83,25.93,0,29.24,11,1
+2008,1,MQ,American Eagle Airlines Inc.,BHM,"Birmingham, AL: Birmingham Municipal",58,16,5.46,0.37,5.48,0,4.69,8,0
+2008,1,MQ,American Eagle Airlines Inc.,BMI,"Bloomington, IL: Bloomington/Normal",89,38,9.87,2.47,10.16,0,15.5,6,0
+2008,1,MQ,American Eagle Airlines Inc.,BNA,"Nashville, TN: Nashville Metropolitan",331,110,30.09,8.22,29.86,0,41.83,20,0
+2008,1,MQ,American Eagle Airlines Inc.,BOS,"Boston, MA: Logan International",834,146,32.38,1.4,49.18,0,63.04,32,0
+2008,1,MQ,American Eagle Airlines Inc.,BTR,"Baton Rouge, LA: Ryan",241,53,20.28,4.63,15.09,0,13,6,0
+2008,1,MQ,American Eagle Airlines Inc.,BUF,"Buffalo, NY: Buffalo Niagara International",120,47,11.73,5.86,15.73,0,13.68,9,0
+2008,1,MQ,American Eagle Airlines Inc.,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",155,62,16.81,6.03,17.26,0,21.9,7,1
+2008,1,MQ,American Eagle Airlines Inc.,CAE,"Columbia, SC: Columbia Metropolitan",93,19,11.08,1.2,1.02,0,5.71,1,0
+2008,1,MQ,American Eagle Airlines Inc.,CHA,"Chattanooga, TN: Lovell Field",93,32,14.94,1.43,5.95,0,9.68,10,0
+2008,1,MQ,American Eagle Airlines Inc.,CHS,"Charleston, SC: Charleston International",93,16,7.52,1.8,2.1,0,4.58,1,0
+2008,1,MQ,American Eagle Airlines Inc.,CID,"Cedar Rapids/Iowa City, IA: Cedar Rapids Municipal",278,95,23.54,6.79,25.24,0,39.43,27,5
+2008,1,MQ,American Eagle Airlines Inc.,CLE,"Cleveland, OH: Hopkins International",395,140,51.63,8.01,41.15,0,39.21,23,1
+2008,1,MQ,American Eagle Airlines Inc.,CLL,"College Station/Bryan, TX: Easterwood Field",119,28,15.08,2.61,5.24,0,5.07,4,0
+2008,1,MQ,American Eagle Airlines Inc.,CLT,"Charlotte, NC: Charlotte Douglas International",483,172,44.11,8.05,59.66,0,60.18,21,2
+2008,1,MQ,American Eagle Airlines Inc.,CMH,"Columbus, OH: Columbus International",658,230,65.5,14.39,54.48,0,95.63,18,1
+2008,1,MQ,American Eagle Airlines Inc.,CMI,"Champaign/Urbana, IL: University Of Illinois/Willard",244,99,29.66,9.76,17.51,0,42.07,24,1
+2008,1,MQ,American Eagle Airlines Inc.,CRP,"Corpus Christi, TX: Corpus Christi International",186,45,17.52,1.48,11.98,0,14.02,5,1
+2008,1,MQ,American Eagle Airlines Inc.,CVG,"Cincinnati, OH: Cincinnati/ Northern Kentucky International",480,125,27.83,7.5,47.51,0,42.16,33,0
+2008,1,MQ,American Eagle Airlines Inc.,DAL,"Dallas, TX: Dallas Love Field",461,46,3.17,0.89,10.15,0,31.79,20,1
+2008,1,MQ,American Eagle Airlines Inc.,DAY,"Dayton, OH: James M Cox/Dayton International",93,31,12.85,1.24,10.83,0,6.09,8,0
+2008,1,MQ,American Eagle Airlines Inc.,DBQ,"Dubuque, IA: Dubuque Municipal",120,40,9.69,1.85,13.1,0,15.37,17,0
+2008,1,MQ,American Eagle Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",887,130,25.29,2.25,40.32,0,62.14,30,0
+2008,1,MQ,American Eagle Airlines Inc.,DFW,"Dallas/Ft.Worth, TX: Dallas/Ft Worth International",7676,1604,205.35,116.83,554.72,1.13,725.97,299,52
+2008,1,MQ,American Eagle Airlines Inc.,DSM,"Des Moines, IA: Des Moines Muncipal",423,139,49.88,7.88,35.33,0,45.91,26,2
+2008,1,MQ,American Eagle Airlines Inc.,DTW,"Detroit, MI: Detroit Metro Wayne County",205,54,12.68,2.36,18.01,0,20.95,14,0
+2008,1,MQ,American Eagle Airlines Inc.,EVV,"Evansville, IN: Evansville Dress Regional",205,71,19.02,4.92,18.21,0,28.85,25,0
+2008,1,MQ,American Eagle Airlines Inc.,EWR,"Newark, NJ: Newark Liberty International",115,24,0.88,0.2,17.31,0,5.61,6,0
+2008,1,MQ,American Eagle Airlines Inc.,FAT,"Fresno, CA: Fresno Air Terminal",157,24,13.36,0.61,3.84,0,6.19,2,2
+2008,1,MQ,American Eagle Airlines Inc.,FNT,"Flint, MI: Bishop",182,59,13.52,3.61,12.84,0,29.03,13,0
+2008,1,MQ,American Eagle Airlines Inc.,FSM,"Fort Smith, AR: Fort Smith Regional",156,18,5.1,3.16,1.37,0,8.37,8,1
+2008,1,MQ,American Eagle Airlines Inc.,FWA,"Fort Wayne, IN: Fort Wayne Muni/Baer Field",213,72,21.21,3.59,24.03,0,23.17,19,0
+2008,1,MQ,American Eagle Airlines Inc.,GGG,"Longview/Kilgor/Gladwatr, TX: Gregg County",93,24,15.66,2.09,1.7,0,4.55,4,0
+2008,1,MQ,American Eagle Airlines Inc.,GPT,"Gulfport/Biloxi, MS: Gulfport Municipal",124,31,7.5,5.43,10.1,0,7.97,1,0
+2008,1,MQ,American Eagle Airlines Inc.,GRB,"Green Bay/Clintonville, WI: Austin/Straubel",186,79,32.09,6.38,19.5,0,21.03,21,1
+2008,1,MQ,American Eagle Airlines Inc.,GRK,"Killeen, TX: Robert Gray Army Air Field",241,55,25.61,3.02,8.64,0,17.73,10,0
+2008,1,MQ,American Eagle Airlines Inc.,GRR,"Grand Rapids, MI: Gerald R. Ford International",240,95,30,6.24,26.45,0,32.31,14,1
+2008,1,MQ,American Eagle Airlines Inc.,GSO,"Greensboro/High Point, NC: Greensboro High Point Winst",124,14,8.58,0.38,2.74,0,2.3,2,0
+2008,1,MQ,American Eagle Airlines Inc.,GSP,"Greenville/Spartanburg, SC: Greenville/Spartanburg Airport",183,44,14.94,4.42,9.57,0,15.07,10,2
+2008,1,MQ,American Eagle Airlines Inc.,HOU,"Houston, TX: William P Hobby",186,32,17.18,1.43,3.96,0,9.42,7,0
+2008,1,MQ,American Eagle Airlines Inc.,HPN,"White Plains, NY: Westchester County",203,85,30.62,7.59,23.6,0,23.19,15,1
+2008,1,MQ,American Eagle Airlines Inc.,HSV,"Huntsville, AL: Huntsville International  Carl Jones",155,45,19.46,3.91,13.05,0,8.58,8,0
+2008,1,MQ,American Eagle Airlines Inc.,ICT,"Wichita, KS: Mid-Continent",209,66,21.28,3.55,18.82,0,22.35,23,0
+2008,1,MQ,American Eagle Airlines Inc.,IND,"Indianapolis, IN: Indianapolis International",275,113,45.66,6.56,32.5,0,28.28,13,1
+2008,1,MQ,American Eagle Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson - Evers International",239,51,14.56,4.4,10.46,0,21.59,8,0
+2008,1,MQ,American Eagle Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",124,48,19.76,3.86,12.14,0,12.23,4,0
+2008,1,MQ,American Eagle Airlines Inc.,JFK,"New York, NY: Kennedy International",666,165,21.21,2.34,92.46,0,48.99,21,2
+2008,1,MQ,American Eagle Airlines Inc.,LAS,"Las Vegas, NV: Mccarran International",94,33,13.32,0,9.54,0,10.14,0,0
+2008,1,MQ,American Eagle Airlines Inc.,LAW,"Lawton/Fort Sill, OK: Lawton Municipal",178,47,23.25,1.95,7.57,0,14.24,8,0
+2008,1,MQ,American Eagle Airlines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1389,232,36.43,2.23,83.42,0,109.92,38,0
+2008,1,MQ,American Eagle Airlines Inc.,LBB,"Lubbock, TX: Preston Smith International",276,62,26.88,4.22,10.73,0,20.17,7,0
+2008,1,MQ,American Eagle Airlines Inc.,LEX,"Lexington, KY: Blue Grass",124,39,8.25,4.88,9.52,0,16.35,2,0
+2008,1,MQ,American Eagle Airlines Inc.,LFT,"Lafayette, LA: Lafayette Regional",124,24,10.57,2.97,2.84,0,7.62,5,0
+2008,1,MQ,American Eagle Airlines Inc.,LGA,"New York, NY: La Guardia",1558,413,44.65,9.67,227.19,0,131.49,60,2
+2008,1,MQ,American Eagle Airlines Inc.,LIT,"Little Rock, AR: Adams Field",458,125,46.7,9.13,21.57,0,47.61,19,2
+2008,1,MQ,American Eagle Airlines Inc.,LRD,"Laredo, TX: Laredo International",119,36,14.41,1.81,6.45,0,13.33,4,0
+2008,1,MQ,American Eagle Airlines Inc.,LSE,"La Crosse, WI: La Crosse Municipal",120,45,12.75,2.25,11.22,0,18.77,19,0
+2008,1,MQ,American Eagle Airlines Inc.,MAF,"Midland/Odessa, TX: Midland International",182,51,21.16,0.91,7.28,0,21.65,4,0
+2008,1,MQ,American Eagle Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",292,55,16.25,0.16,20.03,0,18.56,5,0
+2008,1,MQ,American Eagle Airlines Inc.,MDT,"Harrisburg, PA: Harrisburg International  Olmsted Field",93,43,13.86,1.99,6.27,0,20.89,7,0
+2008,1,MQ,American Eagle Airlines Inc.,MEM,"Memphis, TN: Memphis International",236,97,22.65,4.91,45.33,0,24.11,16,2
+2008,1,MQ,American Eagle Airlines Inc.,MIA,"Miami, FL: Miami International",547,154,31.54,3.54,31.89,0.77,86.26,14,1
+2008,1,MQ,American Eagle Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell Field",236,94,33.16,5.83,25.64,0,29.36,24,2
+2008,1,MQ,American Eagle Airlines Inc.,MLI,"Moline, IL: Quad/City",155,47,12.52,2.98,10.81,0,20.7,12,0
+2008,1,MQ,American Eagle Airlines Inc.,MLU,"Monroe, LA: Huenefeld",89,21,11,0.85,1.83,0,7.32,6,0
+2008,1,MQ,American Eagle Airlines Inc.,MOB,"Mobile, AL: Mobile Regional",121,25,8.82,1.02,5.92,0,9.24,6,0
+2008,1,MQ,American Eagle Airlines Inc.,MQT,"Marquette, MI: Sawyer International",85,47,3.24,4.02,6.72,0,33.02,12,0
+2008,1,MQ,American Eagle Airlines Inc.,MRY,"Monterey, CA: Peninsula",94,24,13.27,1.88,5.12,0,3.73,1,0
+2008,1,MQ,American Eagle Airlines Inc.,MSN,"Madison, WI: Truax Field",295,97,25.81,10.43,28.52,0,32.23,43,4
+2008,1,MQ,American Eagle Airlines Inc.,MTJ,"Montrose/Delta, CO: Montrose County",23,6,3.13,1,1.87,0,0,0,0
+2008,1,MQ,American Eagle Airlines Inc.,OKC,"Oklahoma City, OK: Will Rogers World",151,70,15.25,4.92,28.69,0,21.14,10,0
+2008,1,MQ,American Eagle Airlines Inc.,OMA,"Omaha, NE: Eppley Airfield",182,84,33.56,5.25,20.12,0,25.07,12,0
+2008,1,MQ,American Eagle Airlines Inc.,ORD,"Chicago, IL: O'Hare",7568,3107,252.85,55.18,1552.85,1.76,1244.35,753,17
+2008,1,MQ,American Eagle Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",62,22,10.55,0.06,4.06,0,7.32,3,0
+2008,1,MQ,American Eagle Airlines Inc.,PIA,"Peoria, IL: Greater Peoria",182,68,21.73,5.3,11.35,0,29.62,18,0
+2008,1,MQ,American Eagle Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",421,115,40.53,5.02,30.96,0,38.49,12,1
+2008,1,MQ,American Eagle Airlines Inc.,PNS,"Pensacola, FL: Pensacola Regional",213,56,20.23,5.52,16.51,0,13.74,11,1
+2008,1,MQ,American Eagle Airlines Inc.,PVD,"Providence, RI: Theodore Francis Green",93,46,20.25,1.66,10.32,0,13.77,4,0
+2008,1,MQ,American Eagle Airlines Inc.,RDU,"Raleigh/Durham, NC: Raleigh Durham",1264,238,33.37,3.93,80.93,1,118.76,26,5
+2008,1,MQ,American Eagle Airlines Inc.,RIC,"Richmond, VA: Richmond International Aqirport",150,59,20.03,3.82,13.3,0,21.85,5,0
+2008,1,MQ,American Eagle Airlines Inc.,ROC,"Rochester, NY: Rochester Monroe County",120,56,20.62,3.92,16.06,0,15.41,10,1
+2008,1,MQ,American Eagle Airlines Inc.,ROW,"Roswell, NM: Two Link Ranch",62,11,2.59,1.71,4.07,0,2.63,0,0
+2008,1,MQ,American Eagle Airlines Inc.,RST,"Rochester, MN: Rochester Municipal",205,84,25.15,5.52,21.42,0,31.92,35,2
+2008,1,MQ,American Eagle Airlines Inc.,SAN,"San Diego, CA: San Diego International",641,83,31.52,1.64,16.87,0,32.97,14,1
+2008,1,MQ,American Eagle Airlines Inc.,SAV,"Savannah, GA: Savannah / Hilton Head International",62,14,5.72,0.67,1.29,0,6.33,0,0
+2008,1,MQ,American Eagle Airlines Inc.,SBA,"Santa Barbara, CA: Santa Barbara Municipal",247,32,11.75,2.16,8.19,0,9.9,7,1
+2008,1,MQ,American Eagle Airlines Inc.,SBP,"San Luis Obispo/Paso Robles, CA: San Luis Obispo/Paso Robles Airport",128,25,13.1,1.39,5.56,0,4.95,1,0
+2008,1,MQ,American Eagle Airlines Inc.,SDF,"Louisville, KY: Standiford Field",360,84,28.67,6.09,23.17,0,26.07,18,0
+2008,1,MQ,American Eagle Airlines Inc.,SFO,"San Francisco, CA: San Francisco International",147,65,5.41,0,40.24,0,19.36,20,0
+2008,1,MQ,American Eagle Airlines Inc.,SGF,"Springfield, MO: Springfield Regional",403,108,44.3,6.01,12.92,0,44.77,13,1
+2008,1,MQ,American Eagle Airlines Inc.,SHV,"Shreveport, LA: Shreveport Regional",330,86,43.68,6.21,17.12,0,18.99,14,0
+2008,1,MQ,American Eagle Airlines Inc.,SJC,"San Jose, CA: San Jose International",566,95,16.14,4.55,25.34,0,48.97,8,1
+2008,1,MQ,American Eagle Airlines Inc.,SJT,"San Angelo, TX: Mathis Field",125,29,16.12,2.08,4.43,0,6.38,2,0
+2008,1,MQ,American Eagle Airlines Inc.,SNA,"Santa Ana, CA: John Wayne Orange County",325,81,15.21,2.21,16.73,0,46.84,23,0
+2008,1,MQ,American Eagle Airlines Inc.,SPS,"Wichita Falls, TX: Sheppard Air Force Base / Wichita Falls Air Trml",208,63,29.35,2.85,13.84,0,16.96,15,0
+2008,1,MQ,American Eagle Airlines Inc.,STL,"St. Louis, MO: Lambert International",93,23,8.01,2.11,9.34,0,3.55,7,0
+2008,1,MQ,American Eagle Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",125,50,12.69,6.05,14.33,0,16.93,7,0
+2008,1,MQ,American Eagle Airlines Inc.,TOL,"Toledo, OH: Toledo Express",120,46,10.88,3.33,16.38,0,15.42,16,0
+2008,1,MQ,American Eagle Airlines Inc.,TUL,"Tulsa, OK: Tulsa International",185,34,17.92,2.23,8.54,0,5.3,4,0
+2008,1,MQ,American Eagle Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",62,33,16.73,1.16,7.72,0,7.4,3,1
+2008,1,MQ,American Eagle Airlines Inc.,TXK,"Texarkana, AR: Texarkana Muni/Webb Field",124,28,11.4,0.54,4.9,0,11.16,13,0
+2008,1,MQ,American Eagle Airlines Inc.,TYR,"Tyler, TX: Pounds Field",154,34,14.73,2.25,4.33,0,12.69,9,1
+2008,1,MQ,American Eagle Airlines Inc.,TYS,"Knoxville, TN: Mcghee Tyson",213,69,23.42,3.75,21.32,0,20.51,9,0
+2008,1,MQ,American Eagle Airlines Inc.,VPS,"Valparaiso, FL: Valparaiso - Fort Walton Beach",163,38,11.25,1.98,6.23,0,18.54,3,1
+2008,1,MQ,American Eagle Airlines Inc.,XNA,"Fayetteville, AR: Northwest Arkansas Regional",504,147,41,8.53,46.51,0,50.96,33,1

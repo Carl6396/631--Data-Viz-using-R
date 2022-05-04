@@ -1,0 +1,94 @@
+---
+title: "final_project_writeup"
+author: "Carl Edem Dekpor"
+date: "5/3/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# INTRODUCTION
+My project is about using shiny, shinydashboard and some R packages to visualize data and create a web application. The dataset used is the 2008 fight delay causes in America. The data was provided by Professor Rege for a project in my Data Analytics and visualization class. Professor Abe mentioned the shiny package in class, did some reading on it and I thought it will be interesting to visualize and analyze the same dataset with it. 
+
+## What: 
+This project will focus on developing a multi-shiny app web dashboard in R using the “Shinydashboard” packages to visualize flights delay and cancellation data from 2008 in the US.
+
+## Why: 
+Seems like a fun project to undertake, doing a similar project in my Data Analytics and visualization (using tableau) class. It will be good to compare the outcomes and to develop my R coding skills.
+
+## How: 
+Shiny app – is an interactive web app built on HTML. I will be exploring the reactive and interactive functions of shiny library. Interactively on how an element reacts to user actions and reactive changes that affect the output. UI objects will be used i.e., control widgets 
+I will be exploring the server function of shiny app.
+Graphical interface will help users quickly visualize important metrics of my data set. (Flight delay data and cancellation data in excel format) 
+
+# BODY
+We have all been affected by the impact of flight delays and cancellations. This project will look at the major causing factors of flight delays and cancellations among some carriers in the USA for year 2008. 
+The causes of flight delays have been identified as;  
+Air Carrier: 
+The cause of the cancellation or delay was due to circumstances within the airline's control (e.g., maintenance or crew problems, aircraft cleaning, baggage loading, fueling, etc.). 
+Extreme Weather:
+ Significant meteorological conditions (actual or forecasted) that, in the judgment of the carrier, delays or prevents the operation of a flight such as tornado, blizzard or hurricane.
+National Aviation System (NAS): 
+Delays and cancellations attributable to the national aviation system that refer to a broad set of conditions, such as non-extreme weather conditions, airport operations, heavy traffic volume, and air traffic control.
+
+Late-arriving aircraft: 
+A previous flight with same aircraft arrived late, causing the present flight to depart late.
+
+Security: 
+Delays or cancellations caused by evacuation of a terminal or concourse, re-boarding of aircraft because of security breach, inoperative screening equipment and/or long lines in excess of 29 minutes at screening areas.
+
+The tool used for my analysis is “R” with R packages like – (Shiny, shinydashboard, dpplyr, plotly, DT)
+R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language.
+R shiny allows you to access a complete web application framework in the R environment which can be customized. Shiny app has two main components – UI (user interface) and Server function which defines how the app works. Functions like fluidpage() , selectInput(), tableOutput(), verbatimTextOutput().
+
+
+R shiny allows you to access a complete web application framework in the R environment which can be customized. Shiny app has two main components – UI (user interface) and Server function which defines how the app works. Functions like fluidpage() , selectInput(), tableOutput(), verbatimTextOutput().
+
+Structure for creating a shiny app 
+library(shiny)
+ui <- fluidPage(
+  "Data visualization with R!"
+)
+server <- function(input, output, session) {
+}
+shinyApp(ui, server)
+
+
+library(shinydashboard)
+dashboardPage(
+  dashboardHeader(),
+  dashboardSidebar(),
+  dashboardBody()
+)
+
+These are the structures for building the shiny web app and the dashboard. Histograms and boxplots will be used to analyze the various attributes recorded to detail how they affect the various carriers. This can be extended to analyze or compare the impacts of the delay causes and cancellations in different years. 
+
+
+# TOPICS FROM CLASS
+
+## R Topics: Installing and Some Basics commands
+
+I applied various topics treated in class like – Installing packages in “R”, Listing data, working WITH dataframes, loading files in different formats in “R”, Showing files and setting the working directory, assignment of variables, importing images, getting help with functions, and invoking commands 
+
+## Exposure to reading academic-type paper.
+
+In writing and understanding some of the codes and resources used on the internet. The exposure to R packages and documentation in class was very helpful.
+
+## Github
+
+Creating and use a repository. Making changes to a file and push them to GitHub as commits.
+
+## R Markdowns
+Provides a quick and reproducible reporting from R with a nice layout.
+
+# CONCLUSION
+Putting all the codes together has been really a good learning experience. I have had to go over a lot of documentations and similar ideas on the internet to be able to develop a functioning application. With more time I could have used a larger dataset and compare more years which will involve more writing more codes. I’m proud what I have been able to achieve with this short period of time. I hope to continue after the semester. Overall, my R coding skills have improved immensely.
+
+
+# References 
+https://en.wikipedia.org/wiki/R_(programming_language)
+Airline On-Time Performance and Causes of Flight Delays | Bureau of Transportation Statistics (dot.gov)
+https://www.youtube.com/watch?v=tlOBVZx8Hy0
+
